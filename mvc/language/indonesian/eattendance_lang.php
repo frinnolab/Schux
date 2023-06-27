@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Ujian Absensi";
+$lang['add_title'] = "Tambahkan Ujian Absensi";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "Foto";
+$lang['eattendance_name'] = "Nama";
+$lang['eattendance_email'] = "Email";
+$lang['eattendance_roll'] = "Roll";
+$lang['eattendance_phone'] = "Telepon";
+$lang['eattendance_attendance'] = "Absensi";
+$lang['eattendance_section'] = "Bagian";
+$lang['eattendance_exam'] = "Ujian";
+$lang['eattendance_classes'] = "Kelas";
+$lang['eattendance_subject'] = "Subjek";
+$lang['eattendance_status'] = "Status";
+$lang['eattendance_student'] = "Mahasiswa";
+$lang['eattendance_all_students'] = "Semua Siswa";
+$lang['eattendance_present'] = "Hadir";
+$lang['eattendance_absent'] = "Absen";
+$lang['eattendance_details'] = "Ujian Hadir Rincian";
+$lang['eattendance_select_exam'] = "Pilih Ujian";
+$lang['eattendance_select_classes'] = "Pilih Kelas";
+$lang['eattendance_select_subject'] = "Pilih Subjek";
+$lang['eattendance_select_section'] = "Pilih Bagian";
+$lang['eattendance_select_student'] = "Pilih Mahasiswa";
+$lang['action'] = "Aksi";
+$lang['add_attendance'] = "Absensi";
+$lang['add_all_attendance'] = "Tambahkan Semua Absensi";
+$lang['view_attendance'] = "View Absensi";

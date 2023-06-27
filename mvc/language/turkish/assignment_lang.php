@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Atama";
+$lang['add_title'] = "Bir Atama Eklemek";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "Sınıf";
+$lang['assignment_title'] = "Başlık";
+$lang['assignment_description'] = "Açıklama";
+$lang['assignment_deadlinedate'] = "Son Gün";
+$lang['assignment_uploder'] = "Aktarıcı";
+$lang['assignment_photo'] = "Fotoğraf";
+$lang['assignment_student'] = "Öğrenci";
+$lang['assignment_roll'] = "Rulo";
+$lang['assignment_submission'] = "Teslim Tarihi";
+$lang['assignment_section'] = "Bölüm";
+$lang['assignment_subject'] = "Konu";
+$lang['assignment_select_classes'] = "Seçin Sınıf";
+$lang['assignment_select_student'] = "Seçin Öğrenci";
+$lang['assignment_select_section'] = "Seçin Bölüm";
+$lang['assignment_select_subject'] = "Seçin Konu";
+$lang['assignment_file'] = "Dosya";
+$lang['assignment_file_browse'] = "Dosyası Gözat";
+$lang['assignment_clear'] = "Açık";
+$lang['assignment_ans'] = "Cevap";
+$lang['assignment_ans_list'] = "Listesi Cevap";
+$lang['action'] = "Eylem";
+$lang['download'] = "İndir";
+$lang['view'] = "Görünüm";
+$lang['edit'] = "Düzenle";
+$lang['delete'] = "Sil";
+$lang['upload'] = "Yükleme";
+$lang['add_assignment_ans'] = "Eklemek Cevap";
+$lang['add_assignment'] = "Ödev Ekle";
+$lang['update_assignment'] = "Güncelleme Atama";

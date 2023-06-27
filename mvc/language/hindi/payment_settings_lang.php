@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "भुगतान सेटिंग्स";
+$lang['paypal_email'] = "पेपैल ईमेल";
+$lang['paypal_api_username'] = "पेपैल एपीआई उपयोगकर्ता नाम";
+$lang['paypal_api_password'] = "पेपैल एपीआई पासवर्ड";
+$lang['paypal_api_signature'] = "पेपैल एपीआई हस्ताक्षर";
+$lang['paypal_demo'] = "पेपैल सैंडबॉक्स";
+$lang['paypal_status'] = "पेपैल स्थिति";
+$lang['stripe_secret'] = "धारी गुप्त";
+$lang['stripe_demo'] = "धारी डेमो";
+$lang['stripe_status'] = "धारी स्थिति";
+$lang['payumoney_key'] = "Payumoney कुंजी";
+$lang['payumoney_salt'] = "Payumoney नमक";
+$lang['payumoney_demo'] = "Payumoney डेमो";
+$lang['payumoney_status'] = "Payumoney स्थिति";
+$lang['voguepay_merchant_id'] = "व्यापारी आईडी";
+$lang['voguepay_merchant_ref'] = "व्यापारी संदर्भ";
+$lang['voguepay_developer_code'] = "डेवलपर    कोड";
+$lang['voguepay_demo'] = "डेमो";
+$lang['voguepay_status'] = "स्थिति";
+$lang['enable'] = "सक्षम करें";
+$lang['disable'] = "अक्षम";
+$lang['save'] = "बचाने के लिए";
+$lang['tab_paypal'] = "पेपैल";
+$lang['tab_stripe'] = "धारी";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "अद्यतन सफल";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita डेमो";
+$lang['remita_merchant_id'] = "मर्चेंट आईडी";
+$lang['remita_servicetypeid'] = "सेवा प्रकार आईडी";
+$lang['remita_apikey'] = "एपीआई कुंजी";
+$lang['remita_status'] = "Remita स्थिति";

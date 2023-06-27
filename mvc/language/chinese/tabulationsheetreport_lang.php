@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "表 片 报告";
+$lang['tabulationsheetreport_please_select'] = "请 选择";
+$lang['tabulationsheetreport_report_for'] = "报告为";
+$lang['tabulationsheetreport_class'] = "类";
+$lang['tabulationsheetreport_section'] = "部分";
+$lang['tabulationsheetreport_student'] = "学生";
+$lang['tabulationsheetreport_exam'] = "考试";
+$lang['tabulationsheetreport_tabulationsheet'] = "表 片";
+$lang['tabulationsheetreport_all_class'] = "所有 类";
+$lang['tabulationsheetreport_all_section'] = "所有 部分";
+$lang['tabulationsheetreport_name'] = "名称";
+$lang['tabulationsheetreport_roll'] = "滚";
+$lang['tabulationsheetreport_gpa'] = "Gpa";
+$lang['tabulationsheetreport_total'] = "总";
+$lang['tabulationsheetreport_print'] = "印";
+$lang['tabulationsheetreport_submit'] = "得到的报告";
+$lang['tabulationsheetreport_pdf_preview'] = "Pdf 预览";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "送 Pdf To 邮件";
+$lang['tabulationsheetreport_hotline'] = "热线";
+$lang['tabulationsheetreport_to'] = "要";
+$lang['tabulationsheetreport_subject'] = "受";
+$lang['tabulationsheetreport_message'] = "消息";
+$lang['tabulationsheetreport_close'] = "靠近";
+$lang['tabulationsheetreport_send'] = "发送";
+$lang['tabulationsheetreport_mail_to'] = "该 To 领域 Is 所需要的";
+$lang['tabulationsheetreport_mail_valid'] = "该 To 领域 必须 包含 A 的有效电子邮件 地址";
+$lang['tabulationsheetreport_mail_subject'] = "该 受 领域 Is 所需要的";
+$lang['mail_success'] = "电子邮件发送 成功";
+$lang['mail_error'] = "哎呀, 电子邮件 不 发送";
+$lang['tabulationsheetreport_data_not_found'] = "不't 有任何数据";
+$lang['tabulationsheetreport_permission'] = "权限 不 允许";
+$lang['tabulationsheetreport_permissionmethod'] = "方法 不 允许";

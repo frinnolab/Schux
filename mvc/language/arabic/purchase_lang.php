@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "شراء";
+$lang['add_title'] = "إضافة  شراء";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "العنوان";
+$lang['purchase_assetID'] = "الأصول";
+$lang['purchase_quantity'] = "الكمية";
+$lang['purchase_unit'] = "وحدة";
+$lang['purchase_vendorID'] = "بائع";
+$lang['purchase_date'] = "شراء تاريخ";
+$lang['purchase_unit_kg'] = "كجم";
+$lang['purchase_unit_piece'] = "قطعة";
+$lang['purchase_unit_other'] = "أخرى";
+$lang['purchase_unit'] = "وحدة";
+$lang['purchase_select_unit'] = "حدد وحدة";
+$lang['purchase_service_date'] = "خدمة تاريخ";
+$lang['purchase_expire_date'] = "تنتهي تاريخ";
+$lang['purchase_price'] = "شراء السعر";
+$lang['purchased_by'] = "شراء قبل";
+$lang['purchase_select_asset'] = "حدد الأصول";
+$lang['purchase_select_vendor'] = "حدد بائع";
+$lang['purchase_select_purchased_by'] = "حدد مستخدم";
+$lang['action'] = "العمل";
+$lang['view'] = "عرض";
+$lang['edit'] = "تحرير";
+$lang['delete'] = "حذف";
+$lang['purchase_status_not_approved'] = "لا وافقت";
+$lang['purchase_status_approved'] = "وافق";
+$lang['add_purchase'] = "إضافة شراء";
+$lang['update_purchase'] = "تحديث شراء";

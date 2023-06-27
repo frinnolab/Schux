@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "নিয়োগ";
+$lang['add_title'] = "যোগ একটি নিয়োগ";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "ক্লাস";
+$lang['assignment_title'] = "শিরোনাম";
+$lang['assignment_description'] = "বিবরণ:";
+$lang['assignment_deadlinedate'] = "নির্দিষ্ট সময়সীমা";
+$lang['assignment_uploder'] = "আপলোডার";
+$lang['assignment_photo'] = "ফটো";
+$lang['assignment_student'] = "ছাত্র";
+$lang['assignment_roll'] = "রোল";
+$lang['assignment_submission'] = "জমা আপলোড";
+$lang['assignment_section'] = "অধ্যায়";
+$lang['assignment_subject'] = "বিষয়";
+$lang['assignment_select_classes'] = "নির্বাচন বর্গ";
+$lang['assignment_select_student'] = "নির্বাচন ছাত্রী";
+$lang['assignment_select_section'] = "নির্বাচন অধ্যায়";
+$lang['assignment_select_subject'] = "নির্বাচন বিষয়";
+$lang['assignment_file'] = "ফাইল";
+$lang['assignment_file_browse'] = "ফাইল    ব্রাউজ করুন";
+$lang['assignment_clear'] = "স্পষ্ট";
+$lang['assignment_ans'] = "উত্তর";
+$lang['assignment_ans_list'] = "উত্তর তালিকা";
+$lang['action'] = "কর্ম";
+$lang['download'] = "ডাউনলোড";
+$lang['view'] = "দেখুন";
+$lang['edit'] = "সম্পাদনা";
+$lang['delete'] = "মুছে দিন";
+$lang['upload'] = "তারিখ";
+$lang['add_assignment_ans'] = "যোগ উত্তর";
+$lang['add_assignment'] = "যোগ নিয়োগ";
+$lang['update_assignment'] = "আপডেট নিয়োগ";

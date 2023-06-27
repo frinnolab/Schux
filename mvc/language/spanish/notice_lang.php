@@ -1,0 +1,37 @@
+<?php
+
+$lang['panel_title'] = "Aviso";
+$lang['add_title'] = "Añadir Un Aviso";
+$lang['slno'] = "#";
+$lang['notice_title'] = "Titulo";
+$lang['notice_notice'] = "darse cuenta";
+$lang['notice_date'] = "Fecha";
+$lang['action'] = "Acción";
+$lang['view'] = "Ver";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Eliminar";
+$lang['print'] = "Imprimir";
+$lang['pdf_preview'] = "Pdf Vista Previa";
+$lang["mail"] = "Enviar Pdf Para Correo";
+$lang['add_class'] = "Añadir Aviso";
+$lang['update_class'] = "Actualización Aviso";
+$lang['to'] = "A";
+$lang['subject'] = "Tema";
+$lang['message'] = "Mensaje";
+$lang['send'] = "Enviar";
+$lang['mail_to'] = "Para Campo Es Necesario";
+$lang['mail_valid'] = "Para Campo Debe Contiene Un Válida Correo Electrónico Dirección";
+$lang['mail_subject'] = "El Tema Campo Es Necesario";
+$lang['mail_success'] = "Correo Electrónico Enviar Con éxito";
+$lang['mail_error'] = "Oops, Correo Electrónico No Enviar";
+$lang['notice_to'] = "A";
+$lang['notice_subject'] = "Tema";
+$lang['notice_message'] = "Mensaje";
+$lang['notice_noticeID'] = "Aviso Id";
+$lang['notice_data_not_found'] = "No't De Cualquier Datos";
+$lang['notice_permissionmethod'] = "Método De No Permite";
+$lang['notice_permission'] = "Permiso De No Permite";
+$lang['notice_phone'] = "Teléfono";
+$lang['notice_email'] = "Correo Electrónico";
+$lang['notice_date'] = "Fecha";
+$lang['notice_hotline'] = "Línea Directa";

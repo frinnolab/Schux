@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Certificat Șablon";
+$lang['add_title'] = "Adaugă O Certificat șablon";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "Numele";
+$lang['certificate_template_theme'] = "Tema";
+$lang['certificate_template_main_middle_text'] = "Principal Mijloc Text";
+$lang['certificate_template_top_heading_title'] = "Top Spre Titlu";
+$lang['certificate_template_top_heading_left'] = "Top Spre Stanga";
+$lang['certificate_template_top_heading_middle'] = "Top Spre Mijloc";
+$lang['certificate_template_top_heading_right'] = "Top Spre Dreapta";
+$lang['certificate_template_template'] = "Șablon";
+$lang['certificate_template_footer_left_text'] = "Subsol Stanga Text";
+$lang['certificate_template_footer_middle_text'] = "Subsol Mijloc Text";
+$lang['certificate_template_footer_right_text'] = "Subsol Dreapta Text";
+$lang['certificate_template_background_image'] = "Fundal Imagine";
+$lang['certificate_template_tags'] = "Tag-uri";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "Selectați Tema";
+$lang['certificate_template_default'] 		= "Default";
+$lang['certificate_template_theme1'] 		= "Tema 1";
+$lang['certificate_template_theme2'] 		= "Tema 2";
+$lang['certificate_template_file_browse'] = "Fișier A Naviga";
+$lang['certificate_template_clear'] = "Clar";
+$lang['add_certificate_template'] = "Adaugă Certificat Șablon";
+$lang['update_certificate_template'] = "Actualizare Certificat Șablon";
+$lang['action'] = "Acțiune";
+$lang['view'] = "Vedere";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Șterge";
+$lang['print'] = "Print";
+$lang['pdf_preview'] = "Pdf Previzualizare";
+$lang["mail"] = "Trimite Pdf A E-mail";

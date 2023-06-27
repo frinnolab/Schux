@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Tanda Lembar Laporan";
+$lang['marksheetreport_please_select'] = "Silahkan Pilih";
+$lang['marksheetreport_class'] = "Kelas";
+$lang['marksheetreport_section'] = "Bagian";
+$lang['marksheetreport_exam'] = "Ujian";
+$lang['marksheetreport_report_for'] = "Laporan Untuk";
+$lang['marksheetreport_marksheet'] = "Tanda Lembar";
+$lang['marksheetreport_all_section'] = "Semua Bagian";
+$lang['marksheetreport_submit'] = "Mendapatkan Laporan";
+$lang['marksheetreport_print'] = "Cetak";
+$lang['marksheetreport_pdf_preview'] = "Pdf Preview";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Kirim Pdf Untuk E-mail";
+$lang['marksheetreport_hotline'] = "Hotline";
+$lang['marksheetreport_to'] = "Untuk";
+$lang['marksheetreport_subject'] = "Subjek";
+$lang['marksheetreport_message'] = "Pesan";
+$lang['marksheetreport_close'] = "Dekat";
+$lang['marksheetreport_send'] = "Kirim";
+$lang['marksheetreport_mail_to'] = "Di Bidang Yang Diperlukan";
+$lang['marksheetreport_mail_valid'] = "Di Bidang Harus Mengandung A Valid Email Alamat";
+$lang['marksheetreport_mail_subject'] = "Yang Subjek Bidang Yang Diperlukan";
+$lang['mail_success'] = "Email Kirim Berhasil";
+$lang['mail_error'] = "Oops, Email Tidak Kirim";
+$lang['marksheetreport_data_not_found'] = "Don't Memiliki Setiap Data";
+$lang['marksheetreport_examid_not_found'] = "Ujian Id Tidak Ditemukan";
+$lang['marksheetreport_permission'] = "Izin Tidak Boleh";
+$lang['marksheetreport_permissionmethod'] = "Metode Yang Tidak Boleh";

@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "المهمة";
+$lang['add_title'] = "إضافة  التعيين";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "الدرجة";
+$lang['assignment_title'] = "العنوان";
+$lang['assignment_description'] = "الوصف";
+$lang['assignment_deadlinedate'] = "الموعد النهائي";
+$lang['assignment_uploder'] = "رافع";
+$lang['assignment_photo'] = "الصورة";
+$lang['assignment_student'] = "طالب";
+$lang['assignment_roll'] = "لفة";
+$lang['assignment_submission'] = "تقديم تاريخ";
+$lang['assignment_section'] = "القسم";
+$lang['assignment_subject'] = "الموضوع";
+$lang['assignment_select_classes'] = "حدد فئة";
+$lang['assignment_select_student'] = "حدد طالب";
+$lang['assignment_select_section'] = "حدد القسم";
+$lang['assignment_select_subject'] = "حدد الموضوع";
+$lang['assignment_file'] = "الملف";
+$lang['assignment_file_browse'] = "الملف تصفح";
+$lang['assignment_clear'] = "واضح";
+$lang['assignment_ans'] = "الجواب";
+$lang['assignment_ans_list'] = "الجواب قائمة";
+$lang['action'] = "العمل";
+$lang['download'] = "تحميل";
+$lang['view'] = "عرض";
+$lang['edit'] = "تحرير";
+$lang['delete'] = "حذف";
+$lang['upload'] = "تحميل";
+$lang['add_assignment_ans'] = "إضافة الإجابة";
+$lang['add_assignment'] = "إضافة التعيين";
+$lang['update_assignment'] = "تحديث التعيين";

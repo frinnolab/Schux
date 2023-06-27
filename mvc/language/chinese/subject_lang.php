@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "受";
+$lang['add_title'] = "添加 A 受";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "类 名字";
+$lang['subject_teacher_name'] = "老师 名字";
+$lang['subject_student'] = "学生";
+$lang['subject_name'] = "受 名字";
+$lang['subject_author'] = "受 作者";
+$lang['subject_code'] = "受 码";
+$lang['subject_teacher'] = "老师";
+$lang['subject_classes'] = "类";
+$lang['subject_type'] = "类型";
+$lang['subject_optional'] = "可选的";
+$lang['subject_mandatory'] = "强制性的";
+$lang['subject_passmark'] = "通 记号";
+$lang['subject_finalmark'] = "最后 记号";
+$lang['subject_select_class'] = "选择 类";
+$lang['subject_select_type'] = "选择 型";
+$lang['subject_select_classes'] = "选择 类";
+$lang['subject_select_teacher'] = "选择 老师";
+$lang['subject_select_student'] = "选择 学生";
+$lang['action'] = "动作";
+$lang['view'] = "看";
+$lang['edit'] = "编辑";
+$lang['delete'] = "删除";
+$lang['add_subject'] = "增加受";
+$lang['update_subject'] = "更新 受";

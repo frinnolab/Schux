@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Certificado Informe";
+$lang['certificatereport_select_all_section'] = "All De La Sección";
+$lang['certificatereport_all_section'] = "All De La Sección";
+$lang['certificatereport_report'] = "Certificado";
+$lang['certificatereport_report_for'] = "Informe De";
+$lang['certificatereport_class'] = "Clase";
+$lang['certificatereport_photo'] = "Foto";
+$lang['certificatereport_name'] = "Nombre";
+$lang['certificatereport_roll'] = "Rollo";
+$lang['certificatereport_section'] = "Sección";
+$lang['certificatereport_action'] = "Acción";
+$lang['certificatereport_student_not_found'] = "No't   Estudiantes";
+$lang['certificatereport_select_class'] = "Seleccione Clase";
+$lang['certificatereport_select_section'] = "Seleccione Sección";
+$lang['certificatereport_certificate'] = "Certificado";
+$lang['certificatereport_select_academic_year'] = "Seleccione Académicas Año";
+$lang['certificatereport_select_template'] = "Seleccione Plantilla";
+$lang['certificatereport_academic_year'] = "Académico Año";
+$lang['certificatereport_template'] = "Plantilla";
+$lang['certificatereport_generate_certificate'] = "Generar Certificado";
+$lang['certificatereport_submit'] = "Obtener Informe";
+$lang['certificatereport_academicyear'] = "Académico Año";
+$lang['certificatereport_classname'] = "Clase Nombre";
+$lang['certificatereport_sectionname'] = "Sección Nombre";
+$lang['certificatereport_templatename'] = "Plantilla De Nombre";
+$lang['certificatereport_please_select'] = "Por Favor, Seleccione";
+$lang['certificatereport_print'] = "Imprimir";
+$lang['certificatereport_pdf_preview'] = "Pdf Vista Previa";
+$lang['certificatereport_xml'] = "Xml";
+$lang['certificatereport_mail'] = "Enviar Pdf Para Correo";
+$lang['report_certificate'] = "Certificado";

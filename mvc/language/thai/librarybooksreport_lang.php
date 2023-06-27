@@ -1,0 +1,33 @@
+<?php
+
+$lang['slno'] = "#";
+$lang['panel_title'] = "ห้องสมุด หนังสือ รายงาน";
+$lang['librarybooksreport_report_for'] = "รายงาน สำหรับ";
+$lang['librarybooksreport_please_select'] = "ได้โปรด เลือก";
+$lang['librarybooksreport_bookname'] = "หนังสือ ชื่อ";
+$lang['librarybooksreport_author'] = "ผู้เขียน";
+$lang['librarybooksreport_subjectcode'] = "เรื่อง รหัส";
+$lang['librarybooksreport_rackNo'] = "แข ไม่";
+$lang['librarybooksreport_status'] = "สถานะ";
+$lang['librarybooksreport_available'] = "ที่มีอยู่";
+$lang['librarybooksreport_unavailable'] = "ไม่ว่า";
+$lang['librarybooksreport_librarybooks'] = "ห้องสมุด หนังสือ";
+$lang['librarybooksreport_submit'] = "เอา รายงาน";
+$lang['librarybooksreport_print'] = "การพิมพ์";
+$lang['librarybooksreport_pdf_preview'] = "เอกสาร Pdf แสดงตัวอย่าง";
+$lang['librarybooksreport_xlsx'] = "Xlsx";
+$lang['librarybooksreport_mail'] = "ส่ง เอกสาร Pdf จะ จดหมาย";
+$lang['librarybooksreport_hotline'] = "งานโทรศัพท์สายด่วน";
+$lang['librarybooksreport_to'] = "ต้อง";
+$lang['librarybooksreport_subject'] = "เรื่อง";
+$lang['librarybooksreport_message'] = "ข้อความ";
+$lang['librarybooksreport_close'] = "ปิด";
+$lang['librarybooksreport_send'] = "ส่ง";
+$lang['librarybooksreport_mail_to'] = "ที่ จะ ส คื ต้องการ";
+$lang['librarybooksreport_mail_valid'] = "ที่ จะ ส ต้อง มี A ที่ใช้งาน ส่งอีเมล ที่อยู่";
+$lang['librarybooksreport_mail_subject'] = "ที่ เรื่อง ส คื ต้องการ";
+$lang['mail_success'] = "อีเมล ส่ง เรียบร้อยแล้ว";
+$lang['mail_error'] = "เรื่องนี่รู้กันแค่สองคนใช่ไห, ส่งอีเมล ไม่ ส่ง";
+$lang['librarybooksreport_data_not_found'] = "ข้อมูล ไม่ เจอ";
+$lang['librarybooksreport_permission'] = "ขออนุญาต ไม่ ได้รับอนุญาต";
+$lang['librarybooksreport_permissionmethod'] = "วิธีการ ไม่ ได้รับอนุญาต";

@@ -1,0 +1,81 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Issue_m extends MY_Model {
+
+	protected $_table_name = 'issue';
+	protected $_primary_key = 'issueID';
+	protected $_primary_filter = 'intval';
+	protected $_order_by = "issueID asc";
+
+	function __construct() {
+		parent::__construct();
+	}
+
+	public function get_issue($array=NULL, $signal=FALSE) {
+		$query = parent::get($array, $signal);
+		return $query;
+	}
+
+	public function get_single_issue($array=NULL) {
+		$query = parent::get_single($array);
+		return $query;
+	}
+
+
+	public function get_order_by_issue($array=NULL) {
+		$query = parent::get_order_by($array);
+		return $query;
+	}
+
+	public function insert_issue($array) {
+		$error = parent::insert($array);
+		return TRUE;
+	}
+
+	public function update_issue($data, $id = NULL) {
+		parent::update($data, $id);
+		return $id;
+	}
+
+	public function delete_issue($id){
+		parent::delete($id);
+	}
+
+	public function fine($data) {
+		$alldata = array();
+		$r = array();
+		$like = "";
+		$temp_data = $this->db->query("SELECT * FROM issue");
+		if($temp_data) {
+			$db_data = $temp_data->result();
+			foreach ($db_data as $value) {
+				$alldata[] = $value->return_date;
+				$likes = explode('-', $value->return_date);
+			}
+			return $alldata;
+		}
+	}
+
+	public function get_student_by_libraryID_with_studenallinfo($libraryID) {
+		$this->db->select('*');
+		$this->db->from('student');
+		$this->db->join('lmember', 'student.studentID = lmember.studentID', 'LEFT');
+		$this->db->where('lmember.lID', $libraryID);
+		$query = $this->db->get();
+		return $query->row();
+	}
+
+	public function get_issue_with_books($condition = NULL, $status = FALSE) {
+		$this->db->select('*');
+		$this->db->from('issue');
+		$this->db->join('book', 'issue.bookID = book.bookID', 'LEFT');
+		$this->db->join('lmember', 'issue.lID = lmember.lID', 'LEFT');
+		$this->db->where($condition);
+		$query = $this->db->get();
+		if($status == FALSE) {
+			return $query->result();
+		} else {
+			return $query->row();
+		}
+	}
+}

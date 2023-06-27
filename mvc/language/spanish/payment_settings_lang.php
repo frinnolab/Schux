@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "Pago Configuración";
+$lang['paypal_email'] = "Paypal Correo Electrónico";
+$lang['paypal_api_username'] = "Paypal Api Nombre De Usuario";
+$lang['paypal_api_password'] = "Paypal Api Contraseña";
+$lang['paypal_api_signature'] = "Paypal Api Firma";
+$lang['paypal_demo'] = "Paypal Sandbox";
+$lang['paypal_status'] = "Paypal Estado";
+$lang['stripe_secret'] = "Raya Secreto";
+$lang['stripe_demo'] = "Raya Demo";
+$lang['stripe_status'] = "Raya Estado";
+$lang['payumoney_key'] = "Payumoney Clave";
+$lang['payumoney_salt'] = "Payumoney Sal";
+$lang['payumoney_demo'] = "Payumoney Demo";
+$lang['payumoney_status'] = "Payumoney Estado";
+$lang['voguepay_merchant_id'] = "Comerciante Id";
+$lang['voguepay_merchant_ref'] = "Comercio De Referencia";
+$lang['voguepay_developer_code'] = "Desarrollador Código";
+$lang['voguepay_demo'] = "Demo";
+$lang['voguepay_status'] = "Estatus";
+$lang['enable'] = "Habilitar";
+$lang['disable'] = "Deshabilitar";
+$lang['save'] = "Guardar";
+$lang['tab_paypal'] = "Paypal";
+$lang['tab_stripe'] = "Raya";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "Actualización Éxito";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita Demo";
+$lang['remita_merchant_id'] = "Marchant Id";
+$lang['remita_servicetypeid'] = "Servicio Tipo Id";
+$lang['remita_apikey'] = "Api Clave";
+$lang['remita_status'] = "Remita Estado";

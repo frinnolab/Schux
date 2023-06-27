@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "标记 片 报告";
+$lang['marksheetreport_please_select'] = "请 选择";
+$lang['marksheetreport_class'] = "类";
+$lang['marksheetreport_section'] = "部分";
+$lang['marksheetreport_exam'] = "考试";
+$lang['marksheetreport_report_for'] = "报告为";
+$lang['marksheetreport_marksheet'] = "标记 片";
+$lang['marksheetreport_all_section'] = "所有 部分";
+$lang['marksheetreport_submit'] = "得到的报告";
+$lang['marksheetreport_print'] = "印";
+$lang['marksheetreport_pdf_preview'] = "Pdf 预览";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "送 Pdf To 邮件";
+$lang['marksheetreport_hotline'] = "热线";
+$lang['marksheetreport_to'] = "要";
+$lang['marksheetreport_subject'] = "受";
+$lang['marksheetreport_message'] = "消息";
+$lang['marksheetreport_close'] = "靠近";
+$lang['marksheetreport_send'] = "发送";
+$lang['marksheetreport_mail_to'] = "该 To 领域 Is 所需要的";
+$lang['marksheetreport_mail_valid'] = "该 To 领域 必须 包含 A 的有效电子邮件 地址";
+$lang['marksheetreport_mail_subject'] = "该 受 领域 Is 所需要的";
+$lang['mail_success'] = "电子邮件发送 成功";
+$lang['mail_error'] = "哎呀, 电子邮件 不 发送";
+$lang['marksheetreport_data_not_found'] = "不't 有任何数据";
+$lang['marksheetreport_examid_not_found'] = "考试 Id 不 发现";
+$lang['marksheetreport_permission'] = "权限 不 允许";
+$lang['marksheetreport_permissionmethod'] = "方法 不 允许";

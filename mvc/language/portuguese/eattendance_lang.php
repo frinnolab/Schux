@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Exame De Atendimento";
+$lang['add_title'] = "Adicione Exame De Atendimento";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "Foto";
+$lang['eattendance_name'] = "Nome";
+$lang['eattendance_email'] = "E-mail";
+$lang['eattendance_roll'] = "Rolo";
+$lang['eattendance_phone'] = "Telefone";
+$lang['eattendance_attendance'] = "Atendimento";
+$lang['eattendance_section'] = "Seção";
+$lang['eattendance_exam'] = "Exame";
+$lang['eattendance_classes'] = "Classe";
+$lang['eattendance_subject'] = "Assunto";
+$lang['eattendance_status'] = "Estado";
+$lang['eattendance_student'] = "Estudante";
+$lang['eattendance_all_students'] = "Todos Os Estudantes";
+$lang['eattendance_present'] = "Presente";
+$lang['eattendance_absent'] = "Ausente";
+$lang['eattendance_details'] = "Exame Atendimento Detalhes";
+$lang['eattendance_select_exam'] = "Escolha Exame";
+$lang['eattendance_select_classes'] = "Selecione Classe";
+$lang['eattendance_select_subject'] = "Escolha Assunto";
+$lang['eattendance_select_section'] = "Escolha Seção";
+$lang['eattendance_select_student'] = "Escolha Estudante";
+$lang['action'] = "Ação";
+$lang['add_attendance'] = "Atendimento";
+$lang['add_all_attendance'] = "Adicione Todos De Atendimento";
+$lang['view_attendance'] = "Ler Assiduidade";

@@ -1,0 +1,37 @@
+<?php
+
+$lang['panel_title'] = "Avis";
+$lang['add_title'] = "Ajouter Une Avis";
+$lang['slno'] = "#";
+$lang['notice_title'] = "Titre";
+$lang['notice_notice'] = "Avis";
+$lang['notice_date'] = "Date";
+$lang['action'] = "Action";
+$lang['view'] = "Vue";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Supprimer";
+$lang['print'] = "Imprimer";
+$lang['pdf_preview'] = "Pdf Aperçu";
+$lang["mail"] = "Envoyer Pdf à Mail";
+$lang['add_class'] = "Ajouter Avis";
+$lang['update_class'] = "Mise À Jour Avis";
+$lang['to'] = "Pour";
+$lang['subject'] = "Sujet";
+$lang['message'] = "Message";
+$lang['send'] = "Envoyer";
+$lang['mail_to'] = "L' De Terrain Est Requis";
+$lang['mail_valid'] = "L' De Terrain Doit Contient Une Valide E-mail Adresse";
+$lang['mail_subject'] = "Le Sujet Terrain Est Requis";
+$lang['mail_success'] = "E-mail Envoyer De Succès";
+$lang['mail_error'] = "Oups, E-mail Pas Envoyer";
+$lang['notice_to'] = "Pour";
+$lang['notice_subject'] = "Sujet";
+$lang['notice_message'] = "Message";
+$lang['notice_noticeID'] = "Avis Id";
+$lang['notice_data_not_found'] = "N''t   Données";
+$lang['notice_permissionmethod'] = "Méthode Pas Permis";
+$lang['notice_permission'] = "Autorisation Pas Permis";
+$lang['notice_phone'] = "Téléphone";
+$lang['notice_email'] = "E-mail";
+$lang['notice_date'] = "Date";
+$lang['notice_hotline'] = "Hotline";

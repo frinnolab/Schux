@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Sertifika Rapor";
+$lang['certificatereport_select_all_section'] = "Tüm Bölüm";
+$lang['certificatereport_all_section'] = "Tüm Bölüm";
+$lang['certificatereport_report'] = "Sertifika";
+$lang['certificatereport_report_for'] = "Rapor İçin";
+$lang['certificatereport_class'] = "Sınıf";
+$lang['certificatereport_photo'] = "Fotoğraf";
+$lang['certificatereport_name'] = "Adı";
+$lang['certificatereport_roll'] = "Rulo";
+$lang['certificatereport_section'] = "Bölüm";
+$lang['certificatereport_action'] = "Eylem";
+$lang['certificatereport_student_not_found'] = "Yok't  öğrencilerin";
+$lang['certificatereport_select_class'] = "Seçin Sınıf";
+$lang['certificatereport_select_section'] = "Seçin Bölüm";
+$lang['certificatereport_certificate'] = "Sertifika";
+$lang['certificatereport_select_academic_year'] = "Seçin Akademik Yıl";
+$lang['certificatereport_select_template'] = "Seçin Şablon";
+$lang['certificatereport_academic_year'] = "Akademik Yıl";
+$lang['certificatereport_template'] = "Şablon";
+$lang['certificatereport_generate_certificate'] = "Sertifika Oluştur";
+$lang['certificatereport_submit'] = "Rapor Almak";
+$lang['certificatereport_academicyear'] = "Akademik Yıl";
+$lang['certificatereport_classname'] = "Sınıf adı";
+$lang['certificatereport_sectionname'] = "Bölüm İsim";
+$lang['certificatereport_templatename'] = "Şablon İsim";
+$lang['certificatereport_please_select'] = "Lütfen Seçin";
+$lang['certificatereport_print'] = "Baskı";
+$lang['certificatereport_pdf_preview'] = "Pdf Önizleme";
+$lang['certificatereport_xml'] = "Xml";
+$lang['certificatereport_mail'] = "Posta  Pdf Gönder";
+$lang['report_certificate'] = "Sertifika";

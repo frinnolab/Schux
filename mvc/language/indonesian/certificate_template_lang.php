@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Sertifikat Template";
+$lang['add_title'] = "Menambah A Sertifikat Template";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "Nama";
+$lang['certificate_template_theme'] = "Tema";
+$lang['certificate_template_main_middle_text'] = "Utama Tengah Teks";
+$lang['certificate_template_top_heading_title'] = "Top Pos Judul";
+$lang['certificate_template_top_heading_left'] = "Tajuk Atas Kiri";
+$lang['certificate_template_top_heading_middle'] = "Top Pos Tengah";
+$lang['certificate_template_top_heading_right'] = "Top Menuju Kanan";
+$lang['certificate_template_template'] = "Template";
+$lang['certificate_template_footer_left_text'] = "Footer Kiri Teks";
+$lang['certificate_template_footer_middle_text'] = "Footer Tengah Teks";
+$lang['certificate_template_footer_right_text'] = "Footer Kanan Teks";
+$lang['certificate_template_background_image'] = "Latar Belakang Gambar";
+$lang['certificate_template_tags'] = "Tags";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "Pilih Tema";
+$lang['certificate_template_default'] 		= "Default";
+$lang['certificate_template_theme1'] 		= "Tema 1";
+$lang['certificate_template_theme2'] 		= "Tema 2";
+$lang['certificate_template_file_browse'] = "File Isi";
+$lang['certificate_template_clear'] = "Jelas";
+$lang['add_certificate_template'] = "Tambahkan Sertifikat Template";
+$lang['update_certificate_template'] = "Update Sertifikat Template";
+$lang['action'] = "Aksi";
+$lang['view'] = "Lihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['print'] = "Cetak";
+$lang['pdf_preview'] = "Pdf Preview";
+$lang["mail"] = "Kirim Pdf Untuk E-mail";

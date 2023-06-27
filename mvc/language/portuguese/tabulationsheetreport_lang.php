@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Apuramento Folha Relatório";
+$lang['tabulationsheetreport_please_select'] = "Por Favor, Select";
+$lang['tabulationsheetreport_report_for'] = "Relatório De Para";
+$lang['tabulationsheetreport_class'] = "Classe";
+$lang['tabulationsheetreport_section'] = "Seção";
+$lang['tabulationsheetreport_student'] = "Estudante";
+$lang['tabulationsheetreport_exam'] = "Exame";
+$lang['tabulationsheetreport_tabulationsheet'] = "Apuramento Folha";
+$lang['tabulationsheetreport_all_class'] = "Todas As Classe";
+$lang['tabulationsheetreport_all_section'] = "Todos Os Seção";
+$lang['tabulationsheetreport_name'] = "Nome";
+$lang['tabulationsheetreport_roll'] = "Rolo";
+$lang['tabulationsheetreport_gpa'] = "Agp";
+$lang['tabulationsheetreport_total'] = "Total";
+$lang['tabulationsheetreport_print'] = "Imprimir";
+$lang['tabulationsheetreport_submit'] = "Receba Relatório";
+$lang['tabulationsheetreport_pdf_preview'] = "Pdf Pré-visualização";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "Enviar Pdf Para Correio";
+$lang['tabulationsheetreport_hotline'] = "Linha Direta";
+$lang['tabulationsheetreport_to'] = "Para";
+$lang['tabulationsheetreport_subject'] = "Assunto";
+$lang['tabulationsheetreport_message'] = "Mensagem";
+$lang['tabulationsheetreport_close'] = "Fechar";
+$lang['tabulationsheetreport_send'] = "Enviar";
+$lang['tabulationsheetreport_mail_to'] = "As De Campo é Necessário";
+$lang['tabulationsheetreport_mail_valid'] = "As De Campo Deve Conter Um Válidos E-mail Endereço";
+$lang['tabulationsheetreport_mail_subject'] = "O Assunto Campo é Necessário";
+$lang['mail_success'] = "E-mail Enviar Com Sucesso";
+$lang['mail_error'] = "Oops, E-mail Não Enviar";
+$lang['tabulationsheetreport_data_not_found'] = "Don't Tem Qualquer Dados";
+$lang['tabulationsheetreport_permission'] = "Permissão Não Permitidos";
+$lang['tabulationsheetreport_permissionmethod'] = "Método De Não Permitidos";

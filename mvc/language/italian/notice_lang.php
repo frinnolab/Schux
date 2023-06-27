@@ -1,0 +1,37 @@
+<?php
+
+$lang['panel_title'] = "Avviso";
+$lang['add_title'] = "Aggiungere Un Avviso";
+$lang['slno'] = "#";
+$lang['notice_title'] = "Titolo";
+$lang['notice_notice'] = "Avviso";
+$lang['notice_date'] = "Data";
+$lang['action'] = "Azione";
+$lang['view'] = "Vista";
+$lang['edit'] = "Modifica";
+$lang['delete'] = "Eliminare";
+$lang['print'] = "Stampa";
+$lang['pdf_preview'] = "Pdf Anteprima";
+$lang["mail"] = "Inviare Pdf A Mail";
+$lang['add_class'] = "Aggiungere Avviso";
+$lang['update_class'] = "Aggiornamento Avviso";
+$lang['to'] = "Per";
+$lang['subject'] = "Soggetto";
+$lang['message'] = "Messaggio";
+$lang['send'] = "Inviare";
+$lang['mail_to'] = "Il Al Campo Di Richiesto";
+$lang['mail_valid'] = "Il Al Campo Deve Contiene Un Valido Email Indirizzo";
+$lang['mail_subject'] = "Il Soggetto Campo Di Richiesto";
+$lang['mail_success'] = "E-mail Inviare Con Successo";
+$lang['mail_error'] = "Oops, E-mail Non Invio";
+$lang['notice_to'] = "Per";
+$lang['notice_subject'] = "Soggetto";
+$lang['notice_message'] = "Messaggio";
+$lang['notice_noticeID'] = "Avviso Id";
+$lang['notice_data_not_found'] = "Don't Sono I Dati";
+$lang['notice_permissionmethod'] = "Metodo Non Ha Permesso";
+$lang['notice_permission'] = "Autorizzazione Non Ha Permesso";
+$lang['notice_phone'] = "Telefono";
+$lang['notice_email'] = "Email";
+$lang['notice_date'] = "Data";
+$lang['notice_hotline'] = "Hotline";

@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Anleitung";
+$lang['add_title'] = "Fügen Sie Eine Anleitung";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Titel";
+$lang['instruction_content'] = "Inhalt";
+$lang['instruction_add'] = "Hinzufügen";
+$lang['action'] = "Aktion";
+$lang['view'] = "Ansicht";
+$lang['edit'] = "Bearbeiten";
+$lang['delete'] = "Löschen";
+$lang['print'] = "Drucken";
+$lang['pdf_preview'] = "Pdf-datei Vorschau";
+$lang["mail"] = "Senden Pdf Zu E-mail";
+$lang['add_class'] = "Add Anleitung";
+$lang['update_class'] = "Update Anleitung";
+$lang['to'] = "Zu";
+$lang['subject'] = "Thema";
+$lang['message'] = "Nachricht";
+$lang['send'] = "Senden";
+$lang['mail_to'] = "Feld Ist Notwendig";
+$lang['mail_valid'] = "Feld Muss Enthalten  Gültig Email Adresse";
+$lang['mail_subject'] = "Das Thema Field Ist Notwendig";
+$lang['mail_success'] = "E-mail Senden Erfolgreich";
+$lang['mail_error'] = "Hoppla, E-mail Nicht Zu Senden";
+$lang['instruction_to'] = "Zu";
+$lang['instruction_subject'] = "Thema";
+$lang['instruction_message'] = "Nachricht";
+$lang['instruction_instructionID'] = "Anleitung Id";
+$lang['instruction_data_not_found'] = "Don't Haben Alle Daten";
+$lang['instruction_permissionmethod'] = "Methode Nicht Erlaubt";
+$lang['instruction_permission'] = "Berechtigung Nicht Erlaubt";

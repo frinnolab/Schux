@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "परीक्षा उपस्थिति";
+$lang['add_title'] = "जोड़ें परीक्षा उपस्थिति";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "फोटो";
+$lang['eattendance_name'] = "नाम";
+$lang['eattendance_email'] = "ईमेल";
+$lang['eattendance_roll'] = "रोल";
+$lang['eattendance_phone'] = "फोन";
+$lang['eattendance_attendance'] = "उपस्थिति";
+$lang['eattendance_section'] = "अनुभाग";
+$lang['eattendance_exam'] = "परीक्षा";
+$lang['eattendance_classes'] = "वर्ग";
+$lang['eattendance_subject'] = "विषय";
+$lang['eattendance_status'] = "स्थिति";
+$lang['eattendance_student'] = "छात्र";
+$lang['eattendance_all_students'] = "सभी बुजुर्गों के साथ छात्रों";
+$lang['eattendance_present'] = "वर्तमान";
+$lang['eattendance_absent'] = "अनुपस्थित";
+$lang['eattendance_details'] = "परीक्षा उपस्थिति विवरण";
+$lang['eattendance_select_exam'] = "का चयन करें परीक्षा";
+$lang['eattendance_select_classes'] = "का चयन करें वर्ग";
+$lang['eattendance_select_subject'] = "का चयन करें विषय";
+$lang['eattendance_select_section'] = "का चयन करें धारा";
+$lang['eattendance_select_student'] = "का चयन करें छात्र";
+$lang['action'] = "कार्रवाई";
+$lang['add_attendance'] = "उपस्थिति";
+$lang['add_all_attendance'] = "जोड़ें सब उपस्थिति";
+$lang['view_attendance'] = "देखें उपस्थिति";

@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Exame Programação";
+$lang['add_title'] = "Adicionar Um Exame Programação";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "Exame Nome";
+$lang['examschedule_classes'] = "Classe";
+$lang['examschedule_all_examschedule'] = "Todos Os Exame Agendas";
+$lang['examschedule_select_exam'] = "Escolha Exame";
+$lang['examschedule_select_classes'] = "Selecione Classe";
+$lang['examschedule_select_department'] = "Escolha Departamento De";
+$lang['examschedule_select_subject'] = "Escolha Assunto";
+$lang['examschedule_select_section'] = "Escolha Seção";
+$lang['examschedule_select_student'] = "Escolha Estudante";
+$lang['examschedule_section'] = "Seção";
+$lang['examschedule_student'] = "Estudante";
+$lang['examschedule_subject'] = "Assunto";
+$lang['examschedule_date'] = "Data";
+$lang['examschedule_time'] = "Tempo";
+$lang['examschedule_examfrom'] = "Tempo De";
+$lang['examschedule_examto'] = "Tempo Para";
+$lang['examschedule_room'] = "Quarto";
+$lang['examschedule_note'] = "Nota";
+$lang['examschedule_department'] = "Departamento";
+$lang['examschedule_quick_add'] = "Rápida Adicionar";
+$lang['action'] = "Ação";
+$lang['view'] = "Visualizar";
+$lang['edit'] = "Editar";
+$lang['delete'] = "Apagar";
+$lang['add_examschedule'] = "Adicione Exame Programação";
+$lang['update_examschedule'] = "Atualização Exame Programação";

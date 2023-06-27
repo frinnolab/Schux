@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Subjek";
+$lang['add_title'] = "Menambah A Subjek";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "Kelas Nama";
+$lang['subject_teacher_name'] = "Guru Nama";
+$lang['subject_student'] = "Mahasiswa";
+$lang['subject_name'] = "Subjek Nama";
+$lang['subject_author'] = "Subjek Penulis";
+$lang['subject_code'] = "Subjek Kode";
+$lang['subject_teacher'] = "Guru";
+$lang['subject_classes'] = "Kelas";
+$lang['subject_type'] = "Jenis";
+$lang['subject_optional'] = "Opsional";
+$lang['subject_mandatory'] = "Wajib";
+$lang['subject_passmark'] = "Pass Mark";
+$lang['subject_finalmark'] = "Akhir Mark";
+$lang['subject_select_class'] = "Pilih Kelas";
+$lang['subject_select_type'] = "Pilih Jenis";
+$lang['subject_select_classes'] = "Pilih Kelas";
+$lang['subject_select_teacher'] = "Pilih Guru";
+$lang['subject_select_student'] = "Pilih Mahasiswa";
+$lang['action'] = "Aksi";
+$lang['view'] = "Lihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['add_subject'] = "Tambahkan Subjek";
+$lang['update_subject'] = "Update Subjek";

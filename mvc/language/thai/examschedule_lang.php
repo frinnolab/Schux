@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "ตรวจสอบ ตารางเวลา";
+$lang['add_title'] = "เพิ่ม A สอบ ตารางเวลา";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "ตรวจสอบ ชื่อ";
+$lang['examschedule_classes'] = "ชั้นเรียน";
+$lang['examschedule_all_examschedule'] = "ทุ สอบ หัวหน้าโครงการ:";
+$lang['examschedule_select_exam'] = "เลือก สอบ";
+$lang['examschedule_select_classes'] = "เลือก เรียน";
+$lang['examschedule_select_department'] = "เลือก แผนก";
+$lang['examschedule_select_subject'] = "เลือก เรื่อง";
+$lang['examschedule_select_section'] = "เลือก ส่วน";
+$lang['examschedule_select_student'] = "เลือก นักเรียน";
+$lang['examschedule_section'] = "ส่วน";
+$lang['examschedule_student'] = "นักเรียน";
+$lang['examschedule_subject'] = "เรื่อง";
+$lang['examschedule_date'] = "เดท";
+$lang['examschedule_time'] = "เวลา";
+$lang['examschedule_examfrom'] = "เวลา จาก";
+$lang['examschedule_examto'] = "เวลา ไป";
+$lang['examschedule_room'] = "ห้อง";
+$lang['examschedule_note'] = "ข้อค";
+$lang['examschedule_department'] = "แผนก";
+$lang['examschedule_quick_add'] = "เร็ว เพิ่ม";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "มุมมอง";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['add_examschedule'] = "เพิ่ม สอบ ตารางเวลา";
+$lang['update_examschedule'] = "ปรับปรุง สอบ ตารางเวลา";

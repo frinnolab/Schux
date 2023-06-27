@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Назначение";
+$lang['add_title'] = "Добавить в назначение";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "Класс";
+$lang['assignment_title'] = "Название";
+$lang['assignment_description'] = "Описание";
+$lang['assignment_deadlinedate'] = "Срок";
+$lang['assignment_uploder'] = "Загрузчик";
+$lang['assignment_photo'] = "Фото";
+$lang['assignment_student'] = "Студент";
+$lang['assignment_roll'] = "Ролл";
+$lang['assignment_submission'] = "Представление Дата";
+$lang['assignment_section'] = "Раздел";
+$lang['assignment_subject'] = "Тема";
+$lang['assignment_select_classes'] = "Выберите Класс";
+$lang['assignment_select_student'] = "Выберите Студент";
+$lang['assignment_select_section'] = "Раздел Выберите";
+$lang['assignment_select_subject'] = "Выберите Теме";
+$lang['assignment_file'] = "Файл";
+$lang['assignment_file_browse'] = "Файл Обзор";
+$lang['assignment_clear'] = "Понятно";
+$lang['assignment_ans'] = "Ответ";
+$lang['assignment_ans_list'] = "Ответ Список";
+$lang['action'] = "Действие";
+$lang['download'] = "Скачать";
+$lang['view'] = "Вид";
+$lang['edit'] = "Редактировать";
+$lang['delete'] = "Удалить";
+$lang['upload'] = "Загрузить";
+$lang['add_assignment_ans'] = "Добавить Ответить";
+$lang['add_assignment'] = "Добавить Назначение";
+$lang['update_assignment'] = "Назначение Обновление";

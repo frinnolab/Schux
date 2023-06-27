@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Instruksi";
+$lang['add_title'] = "Menambah A Instruksi";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Judul";
+$lang['instruction_content'] = "Kandungan";
+$lang['instruction_add'] = "Tambahkan";
+$lang['action'] = "Aksi";
+$lang['view'] = "Lihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['print'] = "Cetak";
+$lang['pdf_preview'] = "Pdf Preview";
+$lang["mail"] = "Kirim Pdf Untuk E-mail";
+$lang['add_class'] = "Tambahkan Instruksi";
+$lang['update_class'] = "Update Instruksi";
+$lang['to'] = "Untuk";
+$lang['subject'] = "Subjek";
+$lang['message'] = "Pesan";
+$lang['send'] = "Kirim";
+$lang['mail_to'] = "Di Bidang Yang Diperlukan";
+$lang['mail_valid'] = "Di Bidang Harus Mengandung A Valid Email Alamat";
+$lang['mail_subject'] = "Subject Bidang Yang Diperlukan";
+$lang['mail_success'] = "Email Kirim Berhasil";
+$lang['mail_error'] = "Oops, Email Tidak Kirim";
+$lang['instruction_to'] = "Untuk";
+$lang['instruction_subject'] = "Subjek";
+$lang['instruction_message'] = "Pesan";
+$lang['instruction_instructionID'] = "Instruksi Id";
+$lang['instruction_data_not_found'] = "Don't Memiliki Setiap Data";
+$lang['instruction_permissionmethod'] = "Metode Yang Tidak Boleh";
+$lang['instruction_permission'] = "Izin Tidak Boleh";

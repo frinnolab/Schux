@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "جدولة ورقة تقرير";
+$lang['tabulationsheetreport_please_select'] = "يرجى حدد";
+$lang['tabulationsheetreport_report_for'] = "تقرير ل";
+$lang['tabulationsheetreport_class'] = "الدرجة";
+$lang['tabulationsheetreport_section'] = "القسم";
+$lang['tabulationsheetreport_student'] = "طالب";
+$lang['tabulationsheetreport_exam'] = "الامتحان";
+$lang['tabulationsheetreport_tabulationsheet'] = "جدولة ورقة";
+$lang['tabulationsheetreport_all_class'] = "كل فئة";
+$lang['tabulationsheetreport_all_section'] = "كل القسم";
+$lang['tabulationsheetreport_name'] = "اسم";
+$lang['tabulationsheetreport_roll'] = "لفة";
+$lang['tabulationsheetreport_gpa'] = "المعدل التراكمي";
+$lang['tabulationsheetreport_total'] = "مجموع";
+$lang['tabulationsheetreport_print'] = "طباعة";
+$lang['tabulationsheetreport_submit'] = "الحصول على تقرير";
+$lang['tabulationsheetreport_pdf_preview'] = "Pdf المعاينة";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "إرسال Pdf إلى البريد";
+$lang['tabulationsheetreport_hotline'] = "الخط الساخن";
+$lang['tabulationsheetreport_to'] = "إلى";
+$lang['tabulationsheetreport_subject'] = "الموضوع";
+$lang['tabulationsheetreport_message'] = "الرسالة";
+$lang['tabulationsheetreport_close'] = "قريب";
+$lang['tabulationsheetreport_send'] = "إرسال";
+$lang['tabulationsheetreport_mail_to'] = "أن الميدان هو مطلوب";
+$lang['tabulationsheetreport_mail_valid'] = "أن ميدان أن تحتوي على صالح البريد الإلكتروني العنوان";
+$lang['tabulationsheetreport_mail_subject'] = "على الموضوع الميدان هو مطلوب";
+$lang['mail_success'] = "البريد الإلكتروني إرسال بنجاح";
+$lang['mail_error'] = "عفوا, البريد الإلكتروني لا إرسال";
+$lang['tabulationsheetreport_data_not_found'] = "لا't قد أي البيانات";
+$lang['tabulationsheetreport_permission'] = "إذن لا سمحت";
+$lang['tabulationsheetreport_permissionmethod'] = "الطريقة لا سمحت";

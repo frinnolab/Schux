@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "পরীক্ষার সময়সূচী";
+$lang['add_title'] = "যোগ একটি পরীক্ষা সময়সূচী";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "পরীক্ষার নাম";
+$lang['examschedule_classes'] = "ক্লাস";
+$lang['examschedule_all_examschedule'] = "সব পরীক্ষা সময়সূচী";
+$lang['examschedule_select_exam'] = "নির্বাচন পরীক্ষা";
+$lang['examschedule_select_classes'] = "নির্বাচন বর্গ";
+$lang['examschedule_select_department'] = "নির্বাচন বিভাগের";
+$lang['examschedule_select_subject'] = "নির্বাচন বিষয়";
+$lang['examschedule_select_section'] = "নির্বাচন অধ্যায়";
+$lang['examschedule_select_student'] = "নির্বাচন ছাত্রী";
+$lang['examschedule_section'] = "অধ্যায়";
+$lang['examschedule_student'] = "ছাত্র";
+$lang['examschedule_subject'] = "বিষয়";
+$lang['examschedule_date'] = "আপলোড";
+$lang['examschedule_time'] = "সময়";
+$lang['examschedule_examfrom'] = "সময় থেকে";
+$lang['examschedule_examto'] = "সময়";
+$lang['examschedule_room'] = "রুম";
+$lang['examschedule_note'] = "উল্লেখ্য";
+$lang['examschedule_department'] = "ডিপার্টমেন্ট";
+$lang['examschedule_quick_add'] = "দ্রুত যোগ";
+$lang['action'] = "কর্ম";
+$lang['view'] = "দেখুন";
+$lang['edit'] = "সম্পাদনা";
+$lang['delete'] = "মুছে দিন";
+$lang['add_examschedule'] = "যোগ পরীক্ষা সময়সূচী";
+$lang['update_examschedule'] = "আপডেট পরীক্ষা সময়সূচী";

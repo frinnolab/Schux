@@ -1,0 +1,37 @@
+<?php
+
+$lang['panel_title'] = "Bemerken";
+$lang['add_title'] = "Fügen Sie Eine Merken";
+$lang['slno'] = "#";
+$lang['notice_title'] = "Titel";
+$lang['notice_notice'] = "Bemerken";
+$lang['notice_date'] = "Datum";
+$lang['action'] = "Aktion";
+$lang['view'] = "Ansicht";
+$lang['edit'] = "Bearbeiten";
+$lang['delete'] = "Löschen";
+$lang['print'] = "Drucken";
+$lang['pdf_preview'] = "Pdf-datei Vorschau";
+$lang["mail"] = "Senden Pdf Zu E-mail";
+$lang['add_class'] = "Add Merken";
+$lang['update_class'] = "Update Merken";
+$lang['to'] = "Zu";
+$lang['subject'] = "Thema";
+$lang['message'] = "Nachricht";
+$lang['send'] = "Senden";
+$lang['mail_to'] = "Feld Ist Notwendig";
+$lang['mail_valid'] = "Feld Muss Enthalten  Gültig Email Adresse";
+$lang['mail_subject'] = "Das Thema Field Ist Notwendig";
+$lang['mail_success'] = "E-mail Senden Erfolgreich";
+$lang['mail_error'] = "Hoppla, E-mail Nicht Zu Senden";
+$lang['notice_to'] = "Zu";
+$lang['notice_subject'] = "Thema";
+$lang['notice_message'] = "Nachricht";
+$lang['notice_noticeID'] = "Ankündigung Id";
+$lang['notice_data_not_found'] = "Don't Haben Alle Daten";
+$lang['notice_permissionmethod'] = "Methode Nicht Erlaubt";
+$lang['notice_permission'] = "Berechtigung Nicht Erlaubt";
+$lang['notice_phone'] = "Telefon";
+$lang['notice_email'] = "E-mail";
+$lang['notice_date'] = "Datum";
+$lang['notice_hotline'] = "Hotline";

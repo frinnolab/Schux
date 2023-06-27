@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Zertifikat Bericht";
+$lang['certificatereport_select_all_section'] = "All Bereich";
+$lang['certificatereport_all_section'] = "All Bereich";
+$lang['certificatereport_report'] = "Zertifikat";
+$lang['certificatereport_report_for'] = "Bericht Für";
+$lang['certificatereport_class'] = "Klasse";
+$lang['certificatereport_photo'] = "Foto";
+$lang['certificatereport_name'] = "Name";
+$lang['certificatereport_roll'] = "Roll";
+$lang['certificatereport_section'] = "Abschnitt";
+$lang['certificatereport_action'] = "Aktion";
+$lang['certificatereport_student_not_found'] = "Don't Haben Alle Studenten";
+$lang['certificatereport_select_class'] = "Wählen Sie Klasse";
+$lang['certificatereport_select_section'] = "Wählen Sie Abschnitt";
+$lang['certificatereport_certificate'] = "Zertifikat";
+$lang['certificatereport_select_academic_year'] = "Wählen Sie Akademischen Jahr";
+$lang['certificatereport_select_template'] = "Wählen Sie Vorlage";
+$lang['certificatereport_academic_year'] = "Akademische Jahr";
+$lang['certificatereport_template'] = "Vorlage";
+$lang['certificatereport_generate_certificate'] = "Generieren Zertifikat";
+$lang['certificatereport_submit'] = "Bericht";
+$lang['certificatereport_academicyear'] = "Akademische Jahr";
+$lang['certificatereport_classname'] = "Klasse Name";
+$lang['certificatereport_sectionname'] = "Abschnitt Name";
+$lang['certificatereport_templatename'] = "Vorlage Name";
+$lang['certificatereport_please_select'] = "Bitte Auswählen";
+$lang['certificatereport_print'] = "Drucken";
+$lang['certificatereport_pdf_preview'] = "Pdf-datei Vorschau";
+$lang['certificatereport_xml'] = "Xml";
+$lang['certificatereport_mail'] = "Senden Pdf Zu E-mail";
+$lang['report_certificate'] = "Zertifikat";

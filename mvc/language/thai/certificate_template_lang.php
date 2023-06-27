@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "ใบรับรอง ต้นแบบ";
+$lang['add_title'] = "เพิ่ม A ใบรับรอง ต้นแบบ";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "ชื่อ";
+$lang['certificate_template_theme'] = "ชุดตกแต่ง";
+$lang['certificate_template_main_middle_text'] = "หลัก ง ข้อความ";
+$lang['certificate_template_top_heading_title'] = "บ ลังมุ่งหน้าไป หัวเรื่อง";
+$lang['certificate_template_top_heading_left'] = "บ ลังมุ่งหน้าไป เหลือ";
+$lang['certificate_template_top_heading_middle'] = "บ ลังมุ่งหน้าไป งกลาง";
+$lang['certificate_template_top_heading_right'] = "บ ลังมุ่งหน้าไป ต";
+$lang['certificate_template_template'] = "ต้นแบบ";
+$lang['certificate_template_footer_left_text'] = "ท้ายกระดาษ ทิ้ ข้อความ";
+$lang['certificate_template_footer_middle_text'] = "ท้ายกระดาษ ง ข้อความ";
+$lang['certificate_template_footer_right_text'] = "ท้ายกระดาษ ต ข้อความ";
+$lang['certificate_template_background_image'] = "พื้นหลังของ ภาพ";
+$lang['certificate_template_tags'] = "ป้ายกำกับต่างๆ";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "เลือก ชุดตกแต่ง";
+$lang['certificate_template_default'] 		= "ค่าปริยาย";
+$lang['certificate_template_theme1'] 		= "ชุดตกแต่ง 1";
+$lang['certificate_template_theme2'] 		= "ชุดตกแต่ง 2";
+$lang['certificate_template_file_browse'] = "แฟ้ม เรียกดู";
+$lang['certificate_template_clear'] = "ชัดเจน";
+$lang['add_certificate_template'] = "เพิ่ม องใบรับรอง ต้นแบบ";
+$lang['update_certificate_template'] = "ปรับปรุง ใบรับรอง ต้นแบบ";
+$lang['action'] = "การกระทำ";
+$lang['view'] = "มุมมอง";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['print'] = "การพิมพ์";
+$lang['pdf_preview'] = "เอกสาร Pdf แสดงตัวอย่าง";
+$lang["mail"] = "ส่ง เอกสาร Pdf จะ จดหมาย";

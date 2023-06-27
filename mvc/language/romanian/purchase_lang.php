@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Cumpărare";
+$lang['add_title'] = "Adaugă O Cumpărare";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "Titlu";
+$lang['purchase_assetID'] = "Activ";
+$lang['purchase_quantity'] = "Cantitatea";
+$lang['purchase_unit'] = "Unitate";
+$lang['purchase_vendorID'] = "Furnizor";
+$lang['purchase_date'] = "Achiziționarea Data";
+$lang['purchase_unit_kg'] = "Kg";
+$lang['purchase_unit_piece'] = "Bucata";
+$lang['purchase_unit_other'] = "Alte";
+$lang['purchase_unit'] = "Unitate";
+$lang['purchase_select_unit'] = "Selectați Unitate";
+$lang['purchase_service_date'] = "Service Data";
+$lang['purchase_expire_date'] = "Expira Data";
+$lang['purchase_price'] = "Achiziționarea Pret";
+$lang['purchased_by'] = "Achiziționarea De";
+$lang['purchase_select_asset'] = "Selectați Activelor";
+$lang['purchase_select_vendor'] = "Selectați Furnizor";
+$lang['purchase_select_purchased_by'] = "Selectați Utilizator";
+$lang['action'] = "Acțiune";
+$lang['view'] = "Vedere";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Șterge";
+$lang['purchase_status_not_approved'] = "Nu Aprobat";
+$lang['purchase_status_approved'] = "Aprobat";
+$lang['add_purchase'] = "Adaugă Cumpărare";
+$lang['update_purchase'] = "Actualizare Cumpărare";

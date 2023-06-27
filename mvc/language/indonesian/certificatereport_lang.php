@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Sertifikat Laporan";
+$lang['certificatereport_select_all_section'] = "Semua Bagian";
+$lang['certificatereport_all_section'] = "Semua Bagian";
+$lang['certificatereport_report'] = "Sertifikat";
+$lang['certificatereport_report_for'] = "Laporan Untuk";
+$lang['certificatereport_class'] = "Kelas";
+$lang['certificatereport_photo'] = "Foto";
+$lang['certificatereport_name'] = "Nama";
+$lang['certificatereport_roll'] = "Roll";
+$lang['certificatereport_section'] = "Bagian";
+$lang['certificatereport_action'] = "Aksi";
+$lang['certificatereport_student_not_found'] = "Don't Memiliki Setiap Siswa";
+$lang['certificatereport_select_class'] = "Pilih Kelas";
+$lang['certificatereport_select_section'] = "Pilih Bagian";
+$lang['certificatereport_certificate'] = "Sertifikat";
+$lang['certificatereport_select_academic_year'] = "Pilih Akademik Tahun";
+$lang['certificatereport_select_template'] = "Pilih Template";
+$lang['certificatereport_academic_year'] = "Akademik Tahun";
+$lang['certificatereport_template'] = "Template";
+$lang['certificatereport_generate_certificate'] = "Menghasilkan Sertifikat";
+$lang['certificatereport_submit'] = "Mendapatkan Laporan";
+$lang['certificatereport_academicyear'] = "Akademik Tahun";
+$lang['certificatereport_classname'] = "Kelas Nama";
+$lang['certificatereport_sectionname'] = "Bagian Nama";
+$lang['certificatereport_templatename'] = "Template Nama";
+$lang['certificatereport_please_select'] = "Silahkan Pilih";
+$lang['certificatereport_print'] = "Cetak";
+$lang['certificatereport_pdf_preview'] = "Pdf Preview";
+$lang['certificatereport_xml'] = "Xml";
+$lang['certificatereport_mail'] = "Kirim Pdf Untuk E-mail";
+$lang['report_certificate'] = "Sertifikat";

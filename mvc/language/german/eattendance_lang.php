@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Prüfung Teilnahme";
+$lang['add_title'] = "Add Prüfung Teilnahme";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "Foto";
+$lang['eattendance_name'] = "Name";
+$lang['eattendance_email'] = "E-mail";
+$lang['eattendance_roll'] = "Roll";
+$lang['eattendance_phone'] = "Telefon";
+$lang['eattendance_attendance'] = "Teilnahme";
+$lang['eattendance_section'] = "Abschnitt";
+$lang['eattendance_exam'] = "Prüfung";
+$lang['eattendance_classes'] = "Klasse";
+$lang['eattendance_subject'] = "Thema";
+$lang['eattendance_status'] = "Status";
+$lang['eattendance_student'] = "Student";
+$lang['eattendance_all_students'] = "Alle Studenten";
+$lang['eattendance_present'] = "Präsentieren";
+$lang['eattendance_absent'] = "Abwesend";
+$lang['eattendance_details'] = "Prüfung Teilnahme Details";
+$lang['eattendance_select_exam'] = "Wählen Sie Prüfung";
+$lang['eattendance_select_classes'] = "Wählen Sie Klasse";
+$lang['eattendance_select_subject'] = "Wählen Sie Subjekt";
+$lang['eattendance_select_section'] = "Wählen Sie Abschnitt";
+$lang['eattendance_select_student'] = "Wählen Sie Schüler";
+$lang['action'] = "Aktion";
+$lang['add_attendance'] = "Teilnahme";
+$lang['add_all_attendance'] = "Fügen Sie Alle Teilnahme";
+$lang['view_attendance'] = "Teilnahme";

@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "खरीद";
+$lang['add_title'] = "जोड़ें एक खरीद";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "शीर्षक";
+$lang['purchase_assetID'] = "परिसंपत्ति";
+$lang['purchase_quantity'] = "मात्रा";
+$lang['purchase_unit'] = "इकाई";
+$lang['purchase_vendorID'] = "विक्रेता";
+$lang['purchase_date'] = "खरीद तारीख";
+$lang['purchase_unit_kg'] = "किलो";
+$lang['purchase_unit_piece'] = "टुकड़ा";
+$lang['purchase_unit_other'] = "अन्य";
+$lang['purchase_unit'] = "इकाई";
+$lang['purchase_select_unit'] = "का चयन करें इकाई";
+$lang['purchase_service_date'] = "सेवा तारीख";
+$lang['purchase_expire_date'] = "समाप्त हो तारीख";
+$lang['purchase_price'] = "खरीद मूल्य";
+$lang['purchased_by'] = "खरीद द्वारा";
+$lang['purchase_select_asset'] = "का चयन करें परिसंपत्ति";
+$lang['purchase_select_vendor'] = "का चयन करें विक्रेता";
+$lang['purchase_select_purchased_by'] = "का चयन करें उपयोगकर्ता";
+$lang['action'] = "कार्रवाई";
+$lang['view'] = "देखें";
+$lang['edit'] = "संपादित करें";
+$lang['delete'] = "हटाना";
+$lang['purchase_status_not_approved'] = "नहीं मंजूरी दे दी";
+$lang['purchase_status_approved'] = "मंजूरी दे दी";
+$lang['add_purchase'] = "जोड़ें खरीद";
+$lang['update_purchase'] = "अद्यतन खरीद";

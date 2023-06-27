@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Subiect";
+$lang['add_title'] = "Adaugă O Subiect";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "Clasa Nume";
+$lang['subject_teacher_name'] = "Profesor Nume";
+$lang['subject_student'] = "Student";
+$lang['subject_name'] = "Subiect Nume";
+$lang['subject_author'] = "Subiect Autor";
+$lang['subject_code'] = "Subiect Cod";
+$lang['subject_teacher'] = "Profesor";
+$lang['subject_classes'] = "Clasa";
+$lang['subject_type'] = "Tip";
+$lang['subject_optional'] = "Opțional";
+$lang['subject_mandatory'] = "Obligatoriu";
+$lang['subject_passmark'] = "Trece Marca";
+$lang['subject_finalmark'] = "Final Marca";
+$lang['subject_select_class'] = "Selectați Clasa A";
+$lang['subject_select_type'] = "Selectați Tip";
+$lang['subject_select_classes'] = "Selectați Clasa A";
+$lang['subject_select_teacher'] = "Selectați Profesor";
+$lang['subject_select_student'] = "Selectați Pentru Studenți";
+$lang['action'] = "Acțiune";
+$lang['view'] = "Vedere";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Șterge";
+$lang['add_subject'] = "Adaugă Subiect";
+$lang['update_subject'] = "Actualizare Subiect";

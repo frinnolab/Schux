@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "ดาวน์ การตั้งค่า";
+$lang['paypal_email'] = "Paypal ส่งอีเมล";
+$lang['paypal_api_username'] = "Paypal รูปแบบ Api ชื่อผู้ใช้";
+$lang['paypal_api_password'] = "Paypal รูปแบบ Api รหัสผ่าน";
+$lang['paypal_api_signature'] = "Paypal รูปแบบ Api ลายเซ็น";
+$lang['paypal_demo'] = "Paypal กระบะทรา";
+$lang['paypal_status'] = "Paypal สถานะ";
+$lang['stripe_secret'] = "Stripe ความลับ";
+$lang['stripe_demo'] = "Stripe สาธิต";
+$lang['stripe_status'] = "Stripe สถานะ";
+$lang['payumoney_key'] = "Payumoney กุญแจ";
+$lang['payumoney_salt'] = "Payumoney เกลือ";
+$lang['payumoney_demo'] = "Payumoney สาธิต";
+$lang['payumoney_status'] = "Payumoney สถานะ";
+$lang['voguepay_merchant_id'] = "การ หมายเลข";
+$lang['voguepay_merchant_ref'] = "การ อ้างอิง";
+$lang['voguepay_developer_code'] = "ผู้พัฒนา รหัส";
+$lang['voguepay_demo'] = "สาธิต";
+$lang['voguepay_status'] = "สถานะ";
+$lang['enable'] = "เปิดใช้งาน";
+$lang['disable'] = "ปิดการใช้งาน";
+$lang['save'] = "บันทึก";
+$lang['tab_paypal'] = "Paypal";
+$lang['tab_stripe'] = "Stripe";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "ปรับปรุง ความสำเร็จ";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita สาธิต";
+$lang['remita_merchant_id'] = "Marchant หมายเลข";
+$lang['remita_servicetypeid'] = "บริการ ประเภท หมายเลข";
+$lang['remita_apikey'] = "รูปแบบ Api กุญแจ";
+$lang['remita_status'] = "Remita สถานะ";

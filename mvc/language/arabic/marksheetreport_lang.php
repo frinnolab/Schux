@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "علامة ورقة تقرير";
+$lang['marksheetreport_please_select'] = "يرجى حدد";
+$lang['marksheetreport_class'] = "الدرجة";
+$lang['marksheetreport_section'] = "القسم";
+$lang['marksheetreport_exam'] = "الامتحان";
+$lang['marksheetreport_report_for'] = "تقرير ل";
+$lang['marksheetreport_marksheet'] = "علامة ورقة";
+$lang['marksheetreport_all_section'] = "كل القسم";
+$lang['marksheetreport_submit'] = "الحصول على تقرير";
+$lang['marksheetreport_print'] = "طباعة";
+$lang['marksheetreport_pdf_preview'] = "Pdf المعاينة";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "إرسال Pdf إلى البريد";
+$lang['marksheetreport_hotline'] = "الخط الساخن";
+$lang['marksheetreport_to'] = "إلى";
+$lang['marksheetreport_subject'] = "الموضوع";
+$lang['marksheetreport_message'] = "الرسالة";
+$lang['marksheetreport_close'] = "قريب";
+$lang['marksheetreport_send'] = "إرسال";
+$lang['marksheetreport_mail_to'] = "أن الميدان هو مطلوب";
+$lang['marksheetreport_mail_valid'] = "أن ميدان أن تحتوي على A صالح البريد الإلكتروني العنوان";
+$lang['marksheetreport_mail_subject'] = "على الموضوع الميدان هو مطلوب";
+$lang['mail_success'] = "البريد الإلكتروني إرسال بنجاح";
+$lang['mail_error'] = "عفوا, البريد الإلكتروني لا إرسال";
+$lang['marksheetreport_data_not_found'] = "لا't قد أي البيانات";
+$lang['marksheetreport_examid_not_found'] = "امتحان Id لا وجدت";
+$lang['marksheetreport_permission'] = "إذن لا سمحت";
+$lang['marksheetreport_permissionmethod'] = "الطريقة لا سمحت";

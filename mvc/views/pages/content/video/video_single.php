@@ -1,0 +1,1 @@
+<video preload id="video<?=$rand?>" controls="controls" src="<?=base_url('uploads/gallery/'.$videoContent->file_name)?>" > Your browser does not support the video tag. </video>&nbsp;<p></p>

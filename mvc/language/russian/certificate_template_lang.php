@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Сертификат Шаблон";
+$lang['add_title'] = "Добавить а сертификат шаблон";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "Название";
+$lang['certificate_template_theme'] = "Тема";
+$lang['certificate_template_main_middle_text'] = "Основная Средняя Текст";
+$lang['certificate_template_top_heading_title'] = "Топ Заголовок Заголовок";
+$lang['certificate_template_top_heading_left'] = "Топ Заголовок Левый";
+$lang['certificate_template_top_heading_middle'] = "Топ Заголовок Средний";
+$lang['certificate_template_top_heading_right'] = "Топ Заголовок Правый";
+$lang['certificate_template_template'] = "Шаблон";
+$lang['certificate_template_footer_left_text'] = "Футер Левый Текст";
+$lang['certificate_template_footer_middle_text'] = "Футер Средний Текст";
+$lang['certificate_template_footer_right_text'] = "Нижний Правый Текст";
+$lang['certificate_template_background_image'] = "Фон Изображение";
+$lang['certificate_template_tags'] = "Теги";
+$lang['certificate_template_draganddrop'] = "Десантирования";
+$lang['certificate_template_select_theme'] 	= "Выберите Тема";
+$lang['certificate_template_default'] 		= "По умолчанию";
+$lang['certificate_template_theme1'] 		= "Тема 1";
+$lang['certificate_template_theme2'] 		= "Теме 2";
+$lang['certificate_template_file_browse'] = "Файл Обзор";
+$lang['certificate_template_clear'] = "Понятно";
+$lang['add_certificate_template'] = "Добавить Сертификат Шаблон";
+$lang['update_certificate_template'] = "Обновление Сертификат Шаблон";
+$lang['action'] = "Действие";
+$lang['view'] = "Вид";
+$lang['edit'] = "Редактировать";
+$lang['delete'] = "Удалить";
+$lang['print'] = "Печать";
+$lang['pdf_preview'] = "Формат Pdf превью";
+$lang["mail"] = "Отправить в Pdf в электронной почты";

@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Marca Folha Relatório";
+$lang['marksheetreport_please_select'] = "Por Favor, Select";
+$lang['marksheetreport_class'] = "Classe";
+$lang['marksheetreport_section'] = "Seção";
+$lang['marksheetreport_exam'] = "Exame";
+$lang['marksheetreport_report_for'] = "Relatório De Para";
+$lang['marksheetreport_marksheet'] = "Marca Folha";
+$lang['marksheetreport_all_section'] = "Todos Os Seção";
+$lang['marksheetreport_submit'] = "Receba Relatório";
+$lang['marksheetreport_print'] = "Imprimir";
+$lang['marksheetreport_pdf_preview'] = "Pdf Pré-visualização";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Enviar Pdf Para Correio";
+$lang['marksheetreport_hotline'] = "Linha Direta";
+$lang['marksheetreport_to'] = "Para";
+$lang['marksheetreport_subject'] = "Assunto";
+$lang['marksheetreport_message'] = "Mensagem";
+$lang['marksheetreport_close'] = "Fechar";
+$lang['marksheetreport_send'] = "Enviar";
+$lang['marksheetreport_mail_to'] = "As De Campo é Necessário";
+$lang['marksheetreport_mail_valid'] = "As De Campo Deve Conter Um Válidos E-mail Endereço";
+$lang['marksheetreport_mail_subject'] = "O Assunto Campo é Necessário";
+$lang['mail_success'] = "E-mail Enviar Com Sucesso";
+$lang['mail_error'] = "Oops, E-mail Não Enviar";
+$lang['marksheetreport_data_not_found'] = "Don't Tem Qualquer Dados";
+$lang['marksheetreport_examid_not_found'] = "Exame Id Não Encontrado";
+$lang['marksheetreport_permission'] = "Permissão Não Permitidos";
+$lang['marksheetreport_permissionmethod'] = "Método De Não Permitidos";

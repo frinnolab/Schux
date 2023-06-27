@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "Ödeme Ayarları";
+$lang['paypal_email'] = "Paypal E-posta";
+$lang['paypal_api_username'] = "Paypal Apı Kullanıcı Adı";
+$lang['paypal_api_password'] = "Paypal Apı Şifre";
+$lang['paypal_api_signature'] = "Paypal Apı İmza";
+$lang['paypal_demo'] = "Paypal Sanal";
+$lang['paypal_status'] = "Paypal Durum";
+$lang['stripe_secret'] = "Şerit Gizli";
+$lang['stripe_demo'] = "Şerit Demo";
+$lang['stripe_status'] = "Şerit Durum";
+$lang['payumoney_key'] = "Payumoney Anahtar";
+$lang['payumoney_salt'] = "Payumoney Tuz";
+$lang['payumoney_demo'] = "Payumoney Demo";
+$lang['payumoney_status'] = "Payumoney Durum";
+$lang['voguepay_merchant_id'] = "Tüccar KİmlİĞİ";
+$lang['voguepay_merchant_ref'] = "Tüccar Referans";
+$lang['voguepay_developer_code'] = "Geliştirici Kodu";
+$lang['voguepay_demo'] = "Gösteri";
+$lang['voguepay_status'] = "Durumu";
+$lang['enable'] = "Etkinleştir";
+$lang['disable'] = "Devre Dışı Bırak";
+$lang['save'] = "Kaydet";
+$lang['tab_paypal'] = "Paypal";
+$lang['tab_stripe'] = "Şerit";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "Güncelleme Başarılı";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita Demo";
+$lang['remita_merchant_id'] = "Marchant Id";
+$lang['remita_servicetypeid'] = "Servis Tip Id";
+$lang['remita_apikey'] = "Apı Anahtar";
+$lang['remita_status'] = "Remita Durum";

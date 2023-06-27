@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Экзамен Посещаемость";
+$lang['add_title'] = "Добавить экзамен посещаемость";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "Фото";
+$lang['eattendance_name'] = "Название";
+$lang['eattendance_email'] = "Электронной почты";
+$lang['eattendance_roll'] = "Ролл";
+$lang['eattendance_phone'] = "Телефон";
+$lang['eattendance_attendance'] = "Посещаемость";
+$lang['eattendance_section'] = "Раздел";
+$lang['eattendance_exam'] = "Экзамен";
+$lang['eattendance_classes'] = "Класс";
+$lang['eattendance_subject'] = "Тема";
+$lang['eattendance_status'] = "Статус";
+$lang['eattendance_student'] = "Студент";
+$lang['eattendance_all_students'] = "Всех Студентов";
+$lang['eattendance_present'] = "Присутствует";
+$lang['eattendance_absent'] = "Отсутствует";
+$lang['eattendance_details'] = "Экзамен Посещаемость Детали";
+$lang['eattendance_select_exam'] = "Выберите Экзамен";
+$lang['eattendance_select_classes'] = "Выберите Класс";
+$lang['eattendance_select_subject'] = "Выберите Теме";
+$lang['eattendance_select_section'] = "Раздел Выберите";
+$lang['eattendance_select_student'] = "Выберите Студент";
+$lang['action'] = "Действие";
+$lang['add_attendance'] = "Посещаемость";
+$lang['add_all_attendance'] = "Добавить Все Посещаемость";
+$lang['view_attendance'] = "Смотреть Посещаемость";

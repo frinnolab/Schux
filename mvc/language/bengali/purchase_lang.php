@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "ক্রয়";
+$lang['add_title'] = "যোগ একটি ক্রয়";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "শিরোনাম";
+$lang['purchase_assetID'] = "সম্পদ";
+$lang['purchase_quantity'] = "পরিমাণ";
+$lang['purchase_unit'] = "ইউনিট";
+$lang['purchase_vendorID'] = "বিক্রেতা";
+$lang['purchase_date'] = "ক্রয় আপলোড";
+$lang['purchase_unit_kg'] = "কেজি";
+$lang['purchase_unit_piece'] = "টুকরা";
+$lang['purchase_unit_other'] = "অন্যান্য";
+$lang['purchase_unit'] = "ইউনিট";
+$lang['purchase_select_unit'] = "নির্বাচন ইউনিট";
+$lang['purchase_service_date'] = "সেবা আপলোড";
+$lang['purchase_expire_date'] = "মেয়াদ শেষ আপলোড";
+$lang['purchase_price'] = "ক্রয় মূল্য";
+$lang['purchased_by'] = "ক্রয় দ্বারা";
+$lang['purchase_select_asset'] = "নির্বাচন    সম্পদ";
+$lang['purchase_select_vendor'] = "নির্বাচন বিক্রেতা";
+$lang['purchase_select_purchased_by'] = "নির্বাচন ব্যবহারকারী";
+$lang['action'] = "কর্ম";
+$lang['view'] = "দেখুন";
+$lang['edit'] = "সম্পাদনা";
+$lang['delete'] = "মুছে দিন";
+$lang['purchase_status_not_approved'] = "না অনুমোদিত";
+$lang['purchase_status_approved'] = "অনুমোদিত";
+$lang['add_purchase'] = "যোগ ক্রয়";
+$lang['update_purchase'] = "আপডেট ক্রয়";

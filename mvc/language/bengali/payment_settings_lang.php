@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "পেমেন্ট সেটিংস";
+$lang['paypal_email'] = "পেপ্যাল ইমেইল";
+$lang['paypal_api_username'] = "পেপ্যাল Api-টি    ব্যবহারকারীর নাম";
+$lang['paypal_api_password'] = "পেপ্যাল Api-টি পাসওয়ার্ড";
+$lang['paypal_api_signature'] = "পেপ্যাল Api-টি স্বাক্ষর";
+$lang['paypal_demo'] = "পেপ্যাল স্যান্ডবক্স";
+$lang['paypal_status'] = "পেপ্যাল অবস্থা";
+$lang['stripe_secret'] = "ডোরা গোপন";
+$lang['stripe_demo'] = "ডোরা ডেমো";
+$lang['stripe_status'] = "ডোরা অবস্থা";
+$lang['payumoney_key'] = "Payumoney কী";
+$lang['payumoney_salt'] = "Payumoney লবণ";
+$lang['payumoney_demo'] = "Payumoney ডেমো";
+$lang['payumoney_status'] = "Payumoney অবস্থা";
+$lang['voguepay_merchant_id'] = "বণিক আইডি";
+$lang['voguepay_merchant_ref'] = "বণিক রেফারেন্স";
+$lang['voguepay_developer_code'] = "ডেভেলপার কোড";
+$lang['voguepay_demo'] = "ডেমো";
+$lang['voguepay_status'] = "অবস্থা";
+$lang['enable'] = "সক্রিয়";
+$lang['disable'] = "নিষ্ক্রিয়";
+$lang['save'] = "সংরক্ষণ করুন";
+$lang['tab_paypal'] = "পেপ্যাল";
+$lang['tab_stripe'] = "ডোরা";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "আপডেট সফল";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita ডেমো";
+$lang['remita_merchant_id'] = "Marchant আইডি";
+$lang['remita_servicetypeid'] = "সেবা    টাইপ আইডি";
+$lang['remita_apikey'] = "Api-টি কী";
+$lang['remita_status'] = "Remita অবস্থা";

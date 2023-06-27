@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "التعليمات";
+$lang['add_title'] = "إضافة  تعليمات";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "العنوان";
+$lang['instruction_content'] = "المحتوى";
+$lang['instruction_add'] = "إضافة";
+$lang['action'] = "العمل";
+$lang['view'] = "عرض";
+$lang['edit'] = "تحرير";
+$lang['delete'] = "حذف";
+$lang['print'] = "طباعة";
+$lang['pdf_preview'] = "Pdf المعاينة";
+$lang["mail"] = "إرسال Pdf إلى البريد";
+$lang['add_class'] = "إضافة تعليمات";
+$lang['update_class'] = "تحديث تعليمات";
+$lang['to'] = "إلى";
+$lang['subject'] = "الموضوع";
+$lang['message'] = "الرسالة";
+$lang['send'] = "إرسال";
+$lang['mail_to'] = "ميدان  مطلوب";
+$lang['mail_valid'] = "ميدان أن تحتوي على A صالح البريد الإلكتروني العنوان";
+$lang['mail_subject'] = "الموضوع ميدان  مطلوب";
+$lang['mail_success'] = "البريد الإلكتروني إرسال بنجاح";
+$lang['mail_error'] = "عفوا, البريد الإلكتروني لا إرسال";
+$lang['instruction_to'] = "إلى";
+$lang['instruction_subject'] = "الموضوع";
+$lang['instruction_message'] = "الرسالة";
+$lang['instruction_instructionID'] = "تعليمات Id";
+$lang['instruction_data_not_found'] = "لا't  أي البيانات";
+$lang['instruction_permissionmethod'] = "الطريقة لا سمحت";
+$lang['instruction_permission'] = "إذن لا سمحت";

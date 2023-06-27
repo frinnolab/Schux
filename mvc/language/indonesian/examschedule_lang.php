@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Ujian Jadwal";
+$lang['add_title'] = "Menambah A Ujian Jadwal";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "Ujian Nama";
+$lang['examschedule_classes'] = "Kelas";
+$lang['examschedule_all_examschedule'] = "Semua Ujian Jadwal";
+$lang['examschedule_select_exam'] = "Pilih Ujian";
+$lang['examschedule_select_classes'] = "Pilih Kelas";
+$lang['examschedule_select_department'] = "Pilih Departemen";
+$lang['examschedule_select_subject'] = "Pilih Subjek";
+$lang['examschedule_select_section'] = "Pilih Bagian";
+$lang['examschedule_select_student'] = "Pilih Siswa";
+$lang['examschedule_section'] = "Bagian";
+$lang['examschedule_student'] = "Mahasiswa";
+$lang['examschedule_subject'] = "Subjek";
+$lang['examschedule_date'] = "Tanggal";
+$lang['examschedule_time'] = "Waktu";
+$lang['examschedule_examfrom'] = "Waktu Dari";
+$lang['examschedule_examto'] = "Waktu Untuk";
+$lang['examschedule_room'] = "Kamar";
+$lang['examschedule_note'] = "Catatan";
+$lang['examschedule_department'] = "Departemen";
+$lang['examschedule_quick_add'] = "Cepat Menambahkan";
+$lang['action'] = "Aksi";
+$lang['view'] = "Lihat";
+$lang['edit'] = "Edit";
+$lang['delete'] = "Menghapus";
+$lang['add_examschedule'] = "Tambahkan Ujian Jadwal";
+$lang['update_examschedule'] = "Update Ujian Jadwal";

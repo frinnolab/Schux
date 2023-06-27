@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "Soggetto";
+$lang['add_title'] = "Aggiungere Un Soggetto";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "Classe Nome";
+$lang['subject_teacher_name'] = "Insegnante Nome";
+$lang['subject_student'] = "Studente";
+$lang['subject_name'] = "Soggetto Nome";
+$lang['subject_author'] = "Soggetto Autore";
+$lang['subject_code'] = "Soggetto Codice";
+$lang['subject_teacher'] = "Insegnante";
+$lang['subject_classes'] = "Classe";
+$lang['subject_type'] = "Tipo";
+$lang['subject_optional'] = "Opzionale";
+$lang['subject_mandatory'] = "Obbligatorio";
+$lang['subject_passmark'] = "Pass Marchio";
+$lang['subject_finalmark'] = "Finale Marchio";
+$lang['subject_select_class'] = "Selezionare Classe";
+$lang['subject_select_type'] = "Selezionare Tipo";
+$lang['subject_select_classes'] = "Selezionare Classe";
+$lang['subject_select_teacher'] = "Selezionare Insegnante";
+$lang['subject_select_student'] = "Selezionare Studente";
+$lang['action'] = "Azione";
+$lang['view'] = "Vista";
+$lang['edit'] = "Modifica";
+$lang['delete'] = "Eliminare";
+$lang['add_subject'] = "Aggiungere Soggetto";
+$lang['update_subject'] = "Aggiornamento Soggetto";

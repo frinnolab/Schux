@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Certificat Modèle";
+$lang['add_title'] = "Ajouter Une Certificat Modèle";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "Nom";
+$lang['certificate_template_theme'] = "Thème";
+$lang['certificate_template_main_middle_text'] = "Principal Moyen Texte";
+$lang['certificate_template_top_heading_title'] = "Haut Titre Titre";
+$lang['certificate_template_top_heading_left'] = "Haut Titre Gauche";
+$lang['certificate_template_top_heading_middle'] = "Haut Titre Milieu";
+$lang['certificate_template_top_heading_right'] = "Haut Titre Droite";
+$lang['certificate_template_template'] = "Modèle";
+$lang['certificate_template_footer_left_text'] = "Le Pied De Page Gauche Texte";
+$lang['certificate_template_footer_middle_text'] = "Le Pied De Page Moyen Texte";
+$lang['certificate_template_footer_right_text'] = "Le Pied De Page Droite Texte";
+$lang['certificate_template_background_image'] = "Arrière-plan De L'image";
+$lang['certificate_template_tags'] = "Tags";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "Sélectionnez Thème";
+$lang['certificate_template_default'] 		= "Par Défaut";
+$lang['certificate_template_theme1'] 		= "Thème 1";
+$lang['certificate_template_theme2'] 		= "Thème 2";
+$lang['certificate_template_file_browse'] = "Fichier Parcourir";
+$lang['certificate_template_clear'] = "Claire";
+$lang['add_certificate_template'] = "Ajouter Certificat Modèle";
+$lang['update_certificate_template'] = "Mise À Jour Certificat Modèle";
+$lang['action'] = "Action";
+$lang['view'] = "Vue";
+$lang['edit'] = "Modifier";
+$lang['delete'] = "Supprimer";
+$lang['print'] = "Imprimer";
+$lang['pdf_preview'] = "Pdf Aperçu";
+$lang["mail"] = "Envoyer Pdf à Mail";

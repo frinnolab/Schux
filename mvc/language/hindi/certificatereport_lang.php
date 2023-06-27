@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "प्रमाणपत्र रिपोर्ट";
+$lang['certificatereport_select_all_section'] = "सभी धारा";
+$lang['certificatereport_all_section'] = "सभी धारा";
+$lang['certificatereport_report'] = "प्रमाण पत्र";
+$lang['certificatereport_report_for'] = "रिपोर्ट के लिए";
+$lang['certificatereport_class'] = "वर्ग";
+$lang['certificatereport_photo'] = "फोटो";
+$lang['certificatereport_name'] = "नाम";
+$lang['certificatereport_roll'] = "रोल";
+$lang['certificatereport_section'] = "अनुभाग";
+$lang['certificatereport_action'] = "कार्रवाई";
+$lang['certificatereport_student_not_found'] = "डॉन't है भी छात्रों";
+$lang['certificatereport_select_class'] = "का चयन करें वर्ग";
+$lang['certificatereport_select_section'] = "का चयन करें धारा";
+$lang['certificatereport_certificate'] = "प्रमाण पत्र";
+$lang['certificatereport_select_academic_year'] = "का चयन करें अकादमिक वर्ष";
+$lang['certificatereport_select_template'] = "का चयन करें टेम्पलेट";
+$lang['certificatereport_academic_year'] = "शैक्षणिक वर्ष";
+$lang['certificatereport_template'] = "टेम्पलेट";
+$lang['certificatereport_generate_certificate'] = "उत्पन्न प्रमाण पत्र";
+$lang['certificatereport_submit'] = "प्राप्त रिपोर्ट";
+$lang['certificatereport_academicyear'] = "शैक्षणिक वर्ष";
+$lang['certificatereport_classname'] = "वर्ग नाम";
+$lang['certificatereport_sectionname'] = "अनुभाग नाम";
+$lang['certificatereport_templatename'] = "टेम्पलेट नाम";
+$lang['certificatereport_please_select'] = "कृपया का चयन करें";
+$lang['certificatereport_print'] = "प्रिंट";
+$lang['certificatereport_pdf_preview'] = "पीडीएफ पूर्वावलोकन";
+$lang['certificatereport_xml'] = "एक्सएमएल";
+$lang['certificatereport_mail'] = "भेजें पीडीएफ  करने के लिए मेल";
+$lang['report_certificate'] = "प्रमाण पत्र";

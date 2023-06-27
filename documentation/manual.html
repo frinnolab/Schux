@@ -1,0 +1,1673 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <title>Inilabs School Management System Express</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="online school management system">
+    <meta name="author" content="inilabs">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- Global CSS -->
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
+    <!-- Plugins CSS -->
+    <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="assets/plugins/prism/prism.css">
+    <link rel="stylesheet" href="assets/plugins/lightbox/dist/ekko-lightbox.min.css">
+    <link rel="stylesheet" href="assets/plugins/elegant_font/css/style.css">
+
+    <!-- Theme CSS -->
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body class="body-red">
+    <div class="page-wrapper">
+        <!-- ******Header****** -->
+        <header id="header" class="header">
+            <div class="container">
+                <div class="branding">
+                    <h1 class="logo">
+                        <a href="index.html">
+                            <span aria-hidden="true" class="icon_documents_alt icon"></span>
+                            <span class="text-highlight">Inilabs School Management System Express</span>
+                        </a>
+                    </h1>
+                </div><!--//branding-->
+                <ol class="breadcrumb">
+                    <li><a href="index.html">Home</a></li>
+                    <li class="active">Manual</li>
+                </ol>
+            </div><!--//container-->
+        </header><!--//header-->
+        <div class="doc-wrapper">
+            <div class="container">
+                <div id="doc-header" class="doc-header text-center">
+                    <h1 class="doc-title"><span aria-hidden="true" class="icon icon_lifesaver"></span> Manual</h1>
+                    <div class="meta"><i class="fa fa-clock-o"></i> Last updated: Feb 11, 2019</div>
+                </div><!--//doc-header-->
+                <div class="doc-body">
+                    <div class="doc-content">
+                        <div class="content-inner">
+                            <section id="what_is_this" class="doc-section">
+                                <h2 class="section-title">What Is This?</h2>
+                                <div class="section-block">
+                                    <h3 class="question">Tell me something about this system</h3>
+                                    <div class="answer">
+                                        <p>iNiLabs School management system is uses for manage education based organization like school, college, universities etc. Or user can use it different purposes. Please read this documentation before you make your own.</p>
+                                    </div>
+                                </div><!--//section-block-->
+                            </section><!--//doc-section-->
+
+                            <section id="features">
+                                <div class="page-header"><h3>Features</h3></div>
+                                <pre class="prettyprint lang-plain linenums">
+Unlimited user role & Permission Module.
+Unlimited System admin.
+Privileged User can create Teacher, Accountant, Librarian, Student, Parents account.
+Privileged User can create student class.
+Privileged User can create student section.
+Privileged User can create grading point.
+Privileged User can create student subject.
+Privileged User can create exam & exam schedule.
+Privileged User can give student mark.
+Privileged User can create student class routine.
+Privileged User can give student attendance.
+Privileged User can give student exam attendance.
+Privileged User can give teacher daily attendance.
+Privileged User can give stuff daily attendance.
+Privileged User can upload student activities.
+Privileged User can give promotion student one class to another class.
+Privileged User & Librarian can add student as library member.
+Privileged User can add library book.
+Privileged User & Librarian can issue a book for student.
+Privileged User & Librarian also see library fine history.
+Privileged User can create transport route.
+Privileged User & Accountant can add transport member.
+Privileged User can create hostel & hostel category list.
+Privileged User & Accountant can add student as hostel member.
+Privileged User can create student fee type.e.g(Admission fee)
+Privileged User & Accountant add invoice for student.
+Privileged User, Accountant ,parent & student can payment invoice via PayPal, Stripe, PayUmoney, cash & cheque.
+Privileged User can setup mark via mark setting.
+Privileged User & Accountant can see student account balance amount.
+Privileged User & Accountant can add expense.
+Privileged User can setup Online Payment Settings settings.
+Privileged User & Teacher can share media. Two type of media file access permission - public and class group.
+Privileged User & All users can send internal message with attachment.
+Privileged User can create SMS/Mail Template for particular sms/mail purpose.
+Privileged User can send SMS/Mail for all user by group.
+Privileged User can setup SMS/Mail settings for sms.
+Clicktell, BulkSMS, Twilio & Msg91 sms gateways are available.
+Privileged User can create notice.
+Privileged User can print student report.
+Privileged User can set event and other user see on calender.
+Privileged User can set holiday and other user see on calender.
+Privileged User & all user can change there password.
+Privileged User & all user can see there profile.
+Privileged User can block any type of users login.
+Privileged User can reset any type of user password.
+Two type of attendance system. Daywise and Subjectwise.
+Student can see there payment/invoice history, issue book, media and other features.
+Parents can see there children activities.
+It has 15 different types language support.
+Privileged User can generate Frond-end Theme with Cms feature and built-in website
+Privileged User can manage settings update with front-end disable and enable feature
+Privileged User can manage multiple dynamic page.
+                                </pre>
+
+                            </section>
+
+                            <section id="updatefeatures">
+                                <div class="page-header"><h3>Update Features v4.4</h3></div>
+                                <pre class="prettyprint lang-plain linenums">
+Frontend Menu minor bug fixed
+Signin minor bug fixed
+Invoice minor bug fixed
+Profile minor bug fixed
+Student minor bug fixed
+Product purchase minor bug fixed
+Product sale minor bug fixed
+Online admission minor bug fixed
+Promotion minor bug fixed
+Update checker minor bug fixed
+API minor bug fixed
+                                </pre>
+                            </section>
+
+
+                            <section id="system_requirements">
+                                <div class="page-header"><h3>System Requirements</h3></div>
+                                <div class="code-block">
+                                    <p><code>*** PHP 5.6 To 7.1</code></p>
+                                    <p><code>*** MYSQL 5+</code></p>
+                                    <p><code>*** PHP Mcrypt Extention</code></p>
+                                    <p><code>*** PHP MBString Extension</code></p>
+                                    <p><code>*** PHP DOM Extension</code></p>
+                                    <p><code>*** PHP GD Extension</code></p>
+                                    <p><code>*** PHP MYSQLI Extension</code></p>
+                                    <p><code>*** PHP PDO Extention</code></p>
+                                    <p><code>*** PHP CURL Extention</code></p>
+                                    <p><code>*** PHP ZIP Extention</code></p>
+                                    <p><code>*** allow_url_fopen Enable </code></p>
+                                    <p><code>*** Internet Connection</code></p>
+
+                                </div><!--//code-block-->
+                            </section>
+                            <section id="installation">
+                                <div class="page-header"><h3>Installation</h3></div>
+                                <pre class="prettyprint lang-plain linenums">
+Unzip and copy the script folder in your hosting server.
+Make sure in script folder index.php and .htaccess file have permission as 644
+Make sure in script folder uploads and mvc/config folder have permission as 777
+Manually create a database in “Phpmyadmin”.
+Run the install script path from any web browser (http://server.com/install/index).
+if pre-install checklist seems all ok then click next
+Provide Codecanyon purchase code and then click next.
+Provide database hostname, database name, username and password.
+After filling up all input fields, press next.
+Provide timezone and click next
+Then fill up organization information and admin login information.
+Now click 'go to login'
+Good Luck!!!
+                                </pre>
+
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step1.png" data-title="Install Step 1" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step1.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step1.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step2.png" data-title="Install Step 2" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step2.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step2.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step3.png" data-title="Install Step 3" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step3.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step3.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step4.png" data-title="Install Step 4" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step4.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step4.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step5.png" data-title="Install Step 5" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step5.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step5.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/ins_step6.png" data-title="Install Step 6" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/ins_step6.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/ins_step6.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+
+
+
+
+
+
+
+                            </section>
+
+                            <section id="how_to_start">
+                                <div class="page-header"><h3>How to Start</h3></div>
+                                <h4>1. ADD Teacher</h4>
+                                At first Add Teacher. Please follow below steps :
+                                <pre class="prettyprint">
+Login as admin
+Select teacher menu in sidebar
+Click Add Teacher & fill out the all information
+Then Click Add Teacher Button
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/teacher-add.png" data-title="teacher add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/teacher-add.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/teacher-add.png" data-title="teacher add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/teacher-list.png" data-title="teacher list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/teacher-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/teacher-list.png" data-title="teacher list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <h4>2. ADD Class</h4>
+                                Add Class. Please follow below steps :
+                                <pre class="prettyprint">
+Login as admin
+Select class menu in sidebar
+Click Add class & fill out the all information
+Then Click Add Class Button
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/class-add.png" data-title="class add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/class-add.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/class-add.png" data-title="class add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/class-list.png" data-title="class list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/class-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/class-list.png" data-title="class list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <h4>3. ADD Section</h4>
+                                Add Section. Please follow below steps :
+                                <pre class="prettyprint">
+Login as admin
+Select section menu in sidebar
+Click Add section & fill out the all information
+Then Click Add Section Button
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/section-add.png" data-title="section add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/section-add.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/section-add.png" data-title="section add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/section-list.png" data-title="section list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/section-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/section-list.png" data-title="section list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <h4>4. ADD Parents</h4>
+                                Add Parents. Please follow below steps :
+                                <pre class="prettyprint">
+Login as admin
+Select parents menu in sidebar
+Click Add parents & fill out the all information
+Then Click Add Parents Button
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/parent-addd.png" data-title="Parent Add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/parent-addd.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/parent-addd.png" data-title="Parent Add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/parent-list.png" data-title="Parent List" data-toggle="lightbox"><img style="max-height: 273px;" class="img-responsive" src="assets/images/screenshots/parent-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/parent-list.png" data-title="Parent List" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                &nbsp;
+                                <h4>5. ADD Student</h4>
+                                Add Student. Please follow below steps :
+                                <pre class="prettyprint">
+Login as admin
+Select student menu in sidebar
+Click Add student & fill out the all information
+Then Click Add Student Button
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/student-list.png" data-title="student list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/student-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/student-list.png" data-title="student List" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/student-add.png" data-title="student add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/student-add.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/student-add.png" data-title="student add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                &nbsp;
+                            </section>
+                            <section id="academic">
+                                <div class="page-header"><h3>Academic Section</h3></div>
+                                <h5>How to manage Syllabus?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Syllabus sub menu from academic menu
+Here you can add/edit/delete & view class syllabus
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/syllabus-add.png" data-title="syllabus add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/syllabus-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/syllabus-add.png" data-title="syllabus add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/syllabus-lsit.png" data-title="syllabus list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/syllabus-lsit.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/syllabus-lsit.png" data-title="syllabus list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to manage Assignment?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Assignment sub menu from academic menu
+Here you can add/edit/delete & view class Assignment
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/assignment-lsit.png" data-title="Assignment add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/assignment-lsit.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/assignment-lsit.png" data-title="Assignment add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to manage Routine?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Routine sub menu from academic menu
+Here you can add/edit/delete & view class Routine
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/routine-add.png" data-title="Routine add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/routine-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/routine-add.png" data-title="Routine add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/routine.png" data-title="Routine add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/routine.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/routine.png" data-title="Routine add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to manage Routine?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Routine sub menu from academic menu
+Here you can add/edit/delete & view class Routine
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/routine-add.png" data-title="Routine add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/routine-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/routine-add.png" data-title="Routine add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/routine.png" data-title="Routine add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/routine.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/routine.png" data-title="Routine add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="mark">
+                                <div class="page-header"><h3>Mark Manage</h3></div>
+                                <h5>How to Manage Mark?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Mark sub menu from mark menu
+Then select exam, class, section & subject
+Now it will shows up all student list of this class
+Give Mark and submit data.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mark-add.png" data-title="Mark add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mark-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/mark-add.png" data-title="Mark add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mark-list.png" data-title="Mark list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mark-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/mark-list.png" data-title="Mark list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to Set Mark Percentage?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Mark percentage sub menu from mark menu
+Then fill input and save data
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mark-percentage-add.png" data-title="Mark percentage add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mark-percentage-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/mark-percentage-add.png" data-title="Mark percentage add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mark-percentage.png" data-title="Mark percentage list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mark-percentage.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/mark-percentage.png" data-title="Mark percentage list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to Set Mark Setting?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Mark Setting sub menu from settings menu
+Then select mark type and configure your mark style
+Now update it
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/marksetting.jpg" data-title="Mark setting" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/marksetting.jpg" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/marksetting.jpg" data-title="Mark setting" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="permission">
+                                <div class="page-header"><h3>User Role Permission</h3></div>
+                                <h5>How to Set User Permission ?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Administrator settings menu
+Then select user type and set permission of that user type.
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/usertype-add.png" data-title="usertype add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/usertype-add.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/usertype-add.png" data-title="usertype add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder">
+                                        <a href="assets/images/screenshots/usertype-list.png" data-title="usertype list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/usertype-list.png" alt="screenshot" /></a>
+                                        <a class="mask" href="assets/images/screenshots/usertype-list.png" data-title="usertype list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/permission-add.png" data-title="permission add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/permission-add.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/permission-add.png" data-title="permission add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="exammanage">
+                                <div class="page-header"><h3>Exam Management</h3></div>
+                                <h5>How to Create Exam?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Exam sub menu from exam menu
+Then click add a exam button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/exam-add.png" data-title="exam add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/exam-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/exam-add.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to Create Exam schedule ?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Exam schedule sub menu from exam menu
+Then click add a exam schedule button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/examschedule-add.png" data-title="exam schedule add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/examschedule-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/examschedule-add.png" data-title="exam schedule add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                &nbsp;
+                            </section>
+                            <section id="online_exammanage">
+                                <div class="page-header"><h3>Online Exam Management</h3></div>
+                                <h5>How to Create Online Exam?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select Online Exam sub menu from Online exam menu
+Then click add a online exam button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/online_exam_list.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/online_exam_list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/online_exam_list.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/online_exam_add.png" data-title="online exam add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/online_exam_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/online_exam_add.png" data-title="online exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to Create Question  Group?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select Question group sub menu from Online exam menu
+Then click add a Question  group button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/question-group.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/question-group.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/question-group.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/question-group-add.png" data-title="online exam add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/question-group-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/question-group-add.png" data-title="online exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to Create Question Level?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select Question level sub menu from Online exam menu
+Then click add a Question  level button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/question-level-list.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/question-level-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/question-level-list.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to Create Question Bank?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select Question Bank sub menu from Online exam menu
+Then click add a Question bank button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/question-bank-list.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/question-bank-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/question-bank-list.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/question-bank-add.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/question-bank-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/question-bank-add.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to Create Instruction?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select Instruction sub menu from Online exam menu
+Then click add a Instruction button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/instruction-list.png" data-title="online exam list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/instruction-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/instruction-list.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to Take Exam ?</h5>
+                                <pre class="prettyprint">
+Login as student
+Select take exam
+Then click add a take exam button and flow the instructon
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/take-exam.png" data-title="Take Exam" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/take-exam.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/take-exam.png" data-title="exam add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </section>
+                            <section id="payroll">
+                                <div class="page-header"><h3>PayRoll Management</h3></div>
+                                <h5>How to salary template?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select salary template sub menu from PayRoll menu
+Then click add a salary template button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/salary-template-list.png" data-title="salary template list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/salary-template-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/salary-template-list.png" data-title="salary template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/salary-template-add.png" data-title="salary template add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/salary-template-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/salary-template-add.png" data-title="salary template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to hourly template?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select hourly template sub menu from PayRoll menu
+Then click add hourly template button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/hourly-template-list.png" data-title="hourly template list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/hourly-template-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/hourly-template-list.png" data-title="hourly template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/hourly-template-add.png" data-title="hourly template add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/hourly-template-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/hourly-template-add.png" data-title="hourly template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to manage salary?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select manage salary sub menu from PayRoll menu
+Then select user role to see salary
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/manage-salary-index.png" data-title="manage salary" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/manage-salary-index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/manage-salary-index.png" data-title="manage salary" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/manage-salary-view.png" data-title="manage salary" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/manage-salary-view.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/manage-salary-view.png" data-title="manage salary" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to make payment?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select make payment sub menu from PayRoll menu
+Then click on make payment button
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/make-payment-list.png" data-title="manage salary" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/make-payment-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/make-payment-list.png" data-title="manage salary" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="asset_assignment">
+                                <div class="page-header"><h3>Asset assignment Management</h3></div>
+                                <h5>How to manage asset assignment?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select vendors sub menu from asset assignment menu
+Then click add a vendor button and fill all fields and submit
+Select location sub menu from asset assignment menu
+Then click add a location button and fill all fields and submit
+Select asset category sub menu from asset assignment menu
+Then click add a asset category button and fill all fields and submit
+Select asset sub menu from asset assignment menu
+Then click add a asset button and fill all fields and submit
+Select purchase sub menu from asset assignment menu
+Then click add a purchase button and fill all fields and submit
+Select asset assignment sub menu from asset assignment menu
+Then click add a asset assignment button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/vendor-list.png" data-title="vendors list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/vendor-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/vendor-list.png" data-title="vendor list " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/locations-list.png" data-title="locations list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/locations-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/locations-list.png" data-title="location list " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/locations-add.png" data-title="locations add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/locations-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/locations-add.png" data-title="location add " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-category-list.png" data-title="asset category list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-category-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-category-list.png" data-title="asset category list " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-category-add.png" data-title="asset category add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-category-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-category-add.png" data-title="asset category add " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-list.png" data-title="asset category list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-list.png" data-title="asset category list " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-add.png" data-title="asset category add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-add.png" data-title="asset category add " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-purchase-list.png" data-title="asset purchase list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-purchase-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-purchase-list.png" data-title="asset purchase list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-assignment-list.png" data-title="asset assignment list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-assignment-list.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-assignment-list.png" data-title="asset assignment list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/asset-assignment-view.png" data-title="asset assignment view" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/asset-assignment-view.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/asset-assignment-view.png" data-title="asset assignment view" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="inventory">
+                                <div class="page-header"><h3>Inventory Management</h3></div>
+                                <h5>How to manage inventory ?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select product category sub menu from inventory menu
+Then click add a product category button and fill all fields and submit
+Select product sub menu from inventory menu
+Then click add a product button and fill all fields and submit
+Select warehouse sub menu from asset inventory menu
+Then click add a warehouse button and fill all fields and submit
+Select supplier sub menu from inventory menu
+Then click add a supplier button and fill all fields and submit
+Select purchase sub menu from inventory menu
+Then click add a purchase button and fill all fields and submit
+Select sale sub menu from inventory menu 
+Then click add a sale button and fill all fields and submit
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/product_category_index.png" data-title="Category list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/product_category_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/product_category_index.png" data-title="Prolduct list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/product_category_add.png" data-title="product category add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/product_category_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/product_category_add.png" data-title="Product category add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/product_index.png" data-title="product list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/product_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/product_index.png" data-title="Product list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/product_add.png" data-title="product add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/product_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/product_add.png" data-title="Product add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/productpurchase_index.png" data-title="Product purchase " data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/productpurchase_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/productpurchase_index.png" data-title="Product purchase list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/productpurchase_add.png" data-title="Product purchase add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/productpurchase_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/productpurchase_add.png" data-title="Product purchase add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/productsale_index.png" data-title="Product sale list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/productsale_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/productsale_index.png" data-title="Product sale list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/productsale_add.png" data-title="product sale" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/productsale_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/productsale_add.png" data-title="Product sale add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="leavemanagement">
+                                <div class="page-header"><h3>Leave Management</h3></div>
+                                <h5>How to manage leave application ?</h5>
+                                <pre class="prettyprint">
+Login as admin or accountant
+Select leave apply sub menu from leave application menu
+Then click add a leave apply button and fill all fields and submit
+Select leave application sub menu from leave application menu
+Then aprove leave application                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/leaveapply_index.png" data-title="Leave apply list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/leaveapply_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/leaveapply_index.png" data-title="Leave apply list " data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/leaveapply_add.png" data-title="Leave apply add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/leaveapply_add.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/leaveapply_add.png" data-title="leave apply add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/leaveapplication_index.png" data-title="product list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/leaveapplication_index.png" alt="screenshot" /></a>
+                                            <a class="mask" href="assets/images/screenshots/leaveapplication_index.png" data-title="Leave application list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="certificate">
+                                <div class="page-header"><h3>Certificate</h3></div>
+                                <h5>How to generate student certificate?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select certificate template sub menu from administrator menu
+Fill all fields as you want then save
+then go to certificate sub menu from report menu
+From this menu you can generate various student certificate
+                                </pre>
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/certificate-add.png" data-title="certificate add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/certificate-add.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/certificate-add.png" data-title="certificate add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/certificate-view.png" data-title="certificate view" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/certificate-view.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/certificate-view.png" data-title="certificate view" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="settings">
+                                <div class="page-header"><h3>Setting</h3></div>
+                                <h5>How to Update Site Settings</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Settings sub menu from settings menu
+Fill all fields as you want
+you can set currency Code & symbol, default language, attendance policy and many more from settings tab
+                                </pre>
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/settings.png" data-title="Update site settings" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/settings.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/settings.png" data-title="Update site settings" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <h5>How to Update Payment Settings</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Payment Settings sub menu from settings menu
+Fill all payment credentials and save
+                                </pre>
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/payment-settings.png" data-title="Update payment settings" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/payment-settings.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/payment-settings.png" data-title="Update payment settings" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <h5>How to Update SMS Settings</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select SMS Settings sub menu from settings menu
+Fill all sms gateway credentials and save
+                                </pre>
+                                <div class="col-md-12 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/sms-settings.png" data-title="Update sms settings" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/sms-settings.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/sms-settings.png" data-title="Update sms settings" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="administrator">
+                                <div class="page-header"><h3>Administrator</h3></div>
+                                <h5>How to Update Academic Year Settings</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Academic Year sub menu from administrator menu
+here you can add new year or update old session.
+                                </pre>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/academic-year-add.png" data-title="Academic Year" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/academic-year-add.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/academic-year-add.png" data-title="Academic Year" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 col-sm-12" >
+                                    <div class="screenshot-holder" >
+                                        <a href="assets/images/screenshots/academic-year.png" data-title="Academic Year" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/academic-year.png" alt="screenshot" /></a>
+                                        <a  class="mask" href="assets/images/screenshots/academic-year.png" data-title="Academic Year" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                    </div>
+                                </div>
+
+                                <h5>How to Update Email/SMS Template Settings</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Email/SMS Template sub menu from administrator menu
+here you can add/edit/delete/see new template or update old template
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/email-template-add.png" data-title="email template" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/email-template-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/email-template-add.png" data-title="email template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/sms-template.png" data-title="sms template" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/sms-template.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/sms-template.png" data-title="sms template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>How to Get Backup?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Backup sub menu from administrator menu
+here you can download database backup of our system
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/backups.png" data-title="Database Backups" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/backups.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/backups.png" data-title="email template" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>How to manage System Admin?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select system admin sub menu from administrator menu
+here you can create & manage all system admins of your system
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/system-admin-add.png" data-title="system admin add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/system-admin-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/system-admin-add.png" data-title="system admin add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/system-admin.png" data-title="system admin list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/system-admin.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/system-admin.png" data-title="system admin list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Reset Password</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Reset Password sub menu from administrator menu
+here you can Reset Password of any user you want.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/reset-password.png" data-title="reset password" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/reset-password.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/reset-password.png" data-title="reset password" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Permission</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Permission sub menu from administrator menu
+here you can set Permission of any user type you want.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/permission-add.png" data-title="permission add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/permission-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/permission-add.png" data-title="permission add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>User Type</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select User Type sub menu from administrator menu
+here you can Create/Manage unlimited User Types.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/usertype-add.png" data-title="usertype add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/usertype-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/usertype-add.png" data-title="usertype add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/usertype-list.png" data-title="usertype list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/usertype-list.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/usertype-list.png" data-title="usertype list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <h5>Complain List</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Complain sub menu from administrator menu
+here you can Create/Manage unlimited Complain.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/complain-add.png" data-title="complain add" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/complain-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/complain-add.png" data-title="complain add" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/complain-list.png" data-title="complain list" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/complain-list.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/complain-list.png" data-title="complain list" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="page_builder">
+                                <div class="page-header"><h3>Page Builder Module</h3></div>
+                                <h5>How to make pages from back-end</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Pages sub menu from Frontend menu
+here you can add new page or update old pages.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/page-add.png" data-title="Page Builder" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/page-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/page-add.png" data-title="Page Builder" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="frontend">
+                                <div class="page-header"><h3>Front End</h3></div>
+                                <h5>How Front look like!</h5>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/normal.png" data-title="Front end" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/normal.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/normal.png" data-title="Front end" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="report">
+                                <div class="page-header"><h3>Report</h3></div>
+                                <h5>What is Report</h5>
+                                <p>You can see and generate multiple types of report from report menu</p>
+                                <br/>
+                                <h5>Class Report</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select class report sub menu from in sidebar
+Select Class & Section
+Here you will get
+Class details information,
+Class subject & teacher information,
+Class student information,
+That class account information.
+Fee type Collection
+This Class Student Account Information.
+Account Statistics
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/class-report.png" data-title="Report" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/class-report.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/class-report.png" data-title="Report" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <h5>Attendance Report</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Attendance report sub menu from in sidebar
+Select Attendance type, class, Section , subject & date
+Here you will get
+Total present/absent attendance Information of that class.
+                                </pre>
+                                <div class="row">
+
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/attendaance-report.png" data-title="Report" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/attendaance-report.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/attendaance-report.png" data-title="Report" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Student Report</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Student report sub menu from in sidebar
+You can get various types of student report from here
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/student-report.png" data-title="Report" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/student-report.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/student-report.png" data-title="Report" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Student Group</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Student Group sub menu from in sidebar under administrator menu
+Admin can manage student group e.g (Science, arts, Commerce) from here
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/student-group.png" data-title="Report" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/student-group.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/student-group.png" data-title="Report" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="automation">
+                                <div class="page-header"><h3>Auto Generate Invoice</h3></div>
+                                <h5>What is Auto Generate Invoice ?</h5>
+                                <p>Auto Generate Invoice for Library, Transport and Hostel. In each month generate invoice a particular date in every month. default automation date is 5(automation must be between 1 to 28).</p>
+                                <p>Automation date uses for automatically add fee amount of library, transport & hostel membership holders in their account balance. </p>
+                                <br/>
+                                <h5>How to Set Auto Generate Invoice Date ?</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select setting menu in sidebar
+Then put your auto generate invoice date in Automation field
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/settings.png" data-title="automation settings" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/settings.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/settings.png" data-title="automation settings" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="attendance">
+                                <div class="page-header"><h3>How to Set Attendance</h3></div>
+                                <h4>1. Student Attendance</h4>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select attendance menu in sidebar
+Then select student attendance
+Click Add student attendance Button
+Select Class and Date and press Attendance Button
+Check Student row Checkbox in Action Column for student attendance.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/sattendance-add.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/sattendance-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/sattendance-add.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/sattendance-lsit.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/sattendance-lsit.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/sattendance-lsit.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h4>2. Teacher Attendance</h4>
+                                <pre class="prettyprint">
+Login as admin
+Select attendance menu in sidebar
+Then select teacher attendance
+Click Add teacher attendance Button
+Select Date and press Attendance Button
+Check Teacher row Checkbox in Action Column for teacher attendance.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/tattendance-add.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/tattendance-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/tattendance-add.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/tattendance-list.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/tattendance-list.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/tattendance-list.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h4>3. Exam Attendance</h4>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select attendance menu in sidebar
+Then select exam attendance
+Click Add exam attendance Button
+Select Exam, Class and Date and press Attendance Button
+Check Student row Checkbox in Action Column. That means Student attend that exam.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/exam-attendance.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/exam-attendance.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/exam-attendance.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/eattendance-lsit.png" data-title="attendance" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/eattendance-lsit.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/eattendance-lsit.png" data-title="attendance" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="promotion">
+                                <div class="page-header"><h3>Student Promotion to Next Class</h3></div>
+                                <h5>Step 1: A list of student qualified for promotion to next class</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select promotion menu in sidebar
+Then select class
+After select class the page load all subject under that class with extra field
+Set the minimum number in each subject field for promotion to next class
+Then Click Promotion Mark Setting Button
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/promotion-step-one.png" data-title="promotion" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/promotion-step-one.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/promotion-step-one.png" data-title="promotion" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder" >
+                                            <a href="assets/images/screenshots/promotion-step-final.png" data-title="promotion" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/promotion-step-final.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/promotion-step-final.png" data-title="promotion" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Step 2: Final step of student promotion to next class</h5>
+                                <pre class="prettyprint">
+Status of student in result column
+Check Student row Checkbox in Action Column for promote student to next class.
+Then Click Promotion To Next Class Button
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/promotion-step-two.png" data-title="promotion" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/promotion-step-two.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/promotion-step-two.png" data-title="promotion" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="paypal">
+                                <div class="page-header"><h3>Paypal Settings</h3></div>
+                                <pre class="prettyprint">
+Login as admin
+Select account menu in sidebar
+Then Select Payment Settings
+Fill out your paypal information
+Default Paypal Sandbox off. if you want to test your paypal setting then Paypal Sandbox button should be on.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/paypal-payment.png" data-title="paypal" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/paypal-payment.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/paypal-payment.png" data-title="paypal" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/paypal-payment-offsite.png" data-title="paypal" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/paypal-payment-offsite.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/paypal-payment-offsite.png" data-title="paypal" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="payumoney">
+                                <div class="page-header"><h3>payumoney Settings</h3></div>
+                                <pre class="prettyprint">
+Login as admin
+Select account menu in sidebar
+Then Select Payment Settings
+Fill out your payumoney information
+Default payumoney Sandbox off. if you want to test your payumoney setting then payumoney Sandbox button should be on.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/payumoney-payment.png" data-title="payumoney" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/payumoney-payment.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/payumoney-payment.png" data-title="payumoney" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/payumoney.png" data-title="payumoney" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/payumoney.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/payumoney.png" data-title="payumoney" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="stripe">
+                                <div class="page-header"><h3>Stripe Settings</h3></div>
+                                <pre class="prettyprint">
+Login as admin
+Select account menu in sidebar
+Then Select Payment Settings
+Fill out your Stripe information
+Default Stripe Sandbox off. if you want to test your Stripe setting then Stripe Sandbox button should be on.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/stripe-payment.png" data-title="stripe" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/stripe-payment.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/stripe-payment.png" data-title="stripe" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="mailandsms">
+                                <div class="page-header"><h3>Mail and SMS</h3></div>
+                                <h5>What is Mail and SMS Template ?</h5>
+                                <p>Mail and SMS Template is structure of multiple purposes mail and sms.</p>
+                                <h5>How to Add Template</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select mail/sms menu in sidebar
+Then Select mail/sms template
+Click Add a template Button
+Then Create your Template
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mail-sms-add.png" data-title="email & sms" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mail-sms-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/mail-sms-add.png" data-title="email & sms" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/sms-send.png" data-title="email & sms" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/sms-send.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/sms-send.png" data-title="email & sms" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/mail-sms-list.png" data-title="email & sms" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/mail-sms-list.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/mail-sms-list.png" data-title="email & sms" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>What is Tags ?</h5>
+                                <p>Tags is attribute of each student information. Just like Student Name, Student Class, Student Section, Student Result with Marks and Grade, Student Email etc.</p>
+                            </section>
+
+                            <section id="media">
+                                <div class="page-header"><h3>Media</h3></div>
+                                <h5>What is Media ?</h5>
+                                <p>Share important documents for all users in school management system or Share documents only for a particular Class.</p>
+                                <h5>How to Add Documents and Share ?</h5>
+                                <pre class="prettyprint">
+Login as admin or teacher
+Select media menu in sidebar
+Then Add a File or create a folder
+For Share file or folder click globe icon.
+And choose public for all users or choose class for a individual class students.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/media-add-folder.png" data-title="media" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/media-add-folder.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/media-add-folder.png" data-title="media" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/media.png" data-title="media" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/media.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/media.png" data-title="media" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                            <section id="visitor">
+                                <div class="page-header"><h3>Visitor pass manage</h3></div>
+                                <h5>What is visitor pass management ?</h5>
+                                <p>With this application receptionist can handle visitors of the organisation. receptionist can create pass for visitors and have report of those visiors.</p>
+                                <h5>How to use it?</h5>
+                                <pre class="prettyprint">
+Login as receptionist
+Select visitor pass menu in sidebar
+Then fill required information for create pass for the visitor with webcam and print the pass.
+When visitor will finish his visit then logout his access.
+Total information can be accessible from one page.</pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/visitor-pass.png" data-title="visitor pass" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/visitor-pass.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/visitor-pass.png" data-title="visitor pass" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="account">
+                                <div class="page-header"><h3>Account Management</h3></div>
+                                <h5>Invoice</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Invoice sub menu from account menu
+here you can Create/Manage Invoices</pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/invoice-create.png" data-title="invoice" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/invoice-create.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/invoice-create.png" data-title="invoice" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/invoice-view.png" data-title="invoice" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/invoice-view.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/invoice-view.png" data-title="invoice" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/invoice-pay.png" data-title="invoice" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/invoice-pay.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/invoice-pay.png" data-title="invoice" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/invoice-pdf.png" data-title="invoice" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/invoice-pdf.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/invoice-pdf.png" data-title="invoice" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Expense</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Expense sub menu from account menu
+here you can Create/Manage Expenses
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/expense-add.png" data-title="expense" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/expense-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/expense-add.png" data-title="expense" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/expense-list.png" data-title="expense" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/expense-list.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/expense-list.png" data-title="expense" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Payment History</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Payment History sub menu from account menu
+here you can see all payments made
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/payment-history.png" data-title="payment-history" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/payment-history.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/payment-history.png" data-title="payment-history" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <h5>Fee Types</h5>
+                                <pre class="prettyprint">
+Login as admin
+Select Fee Types sub menu from account menu
+here you can manage all fee types
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/feetype-add.png" data-title="feetype" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/feetype-add.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/feetype-add.png" data-title="feetype" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/feetypes.png" data-title="fee type" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/feetypes.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/feetypes.png" data-title="feetype" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="upgradeversion">
+                                <div class="page-header"><h3>Upgrade Project</h3></div>
+                                <h5>Upgrade to v3.1 or v3.2 to v3.3</h5>
+                                <pre class="prettyprint">
+Login as admin.
+Collect the upgrade zip file from the script provider/author(iNiLabs).
+Select update sub menu from administrator menu.
+upload the zip file collected from author.
+Wait till the process running and do not click or reload the page while processing.
+When process ends the project will automatically reload and sign out from the admin panel.
+Now login and enjoy the new updated project with your existing data.
+                                </pre>
+                                <div class="row">
+                                    <div class="col-md-6 col-sm-12 col-sm-12" >
+                                        <div class="screenshot-holder">
+                                            <a href="assets/images/screenshots/update.png" data-title="Update" data-toggle="lightbox"><img class="img-responsive" src="assets/images/screenshots/update.png" alt="screenshot" /></a>
+                                            <a  class="mask" href="assets/images/screenshots/update.png" data-title="invoice" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+
+                            <section id="developer_support">
+                                <h3 id="contact"> How To Contact Us?</h3>
+                                <a href="skype:md.rid"><img src="assets/images/support/skype.png" width="50" height="50"></a>
+                                <a href="mailto:labs.ini@gmail.com"><img src="assets/images/support/gmail.png" width="50" height="50"></a>
+                                <a href="http://support.inilabs.net"><img src="assets/images/support/website.png" width="50" height="50"></a>
+                            </section>
+
+                            <section id="what_else">
+                                <div class="page-header"><h3>What else</h3></div>
+                                <img src="assets/images/support/inilabs.png" alt="iNiLabs" width="220" height="75">
+                                <p style="text-indent: 40px;">Nevertheless it's still not finished. We like to improve it wherever we can and appreciate your feedback.</p>
+
+                            </section>
+
+
+                        </div><!--//content-inner-->
+                    </div><!--//doc-content-->
+                    <div class="doc-sidebar">
+                        <nav id="doc-nav">
+                            <ul id="doc-menu" class="nav doc-menu hidden-xs" data-spy="affix">
+                                <li><a class="scrollto" href="#what_is_this" title="What is this?">What is this?</a></li>
+                                <li><a class="scrollto" href="#features" title="Features">Features</a></li>
+                                <li><a class="scrollto" href="#updatefeatures" title="Features">Update Features</a></li>
+                                <li><a class="scrollto" href="#system_requirements" title="System Requirements">System Requirements</a></li>
+                                <li><a class="scrollto" href="#installation" title="Installation">Installation</a></li>
+                                <li><a class="scrollto" href="#how_to_start" title="How to Start">How To Start</a></li>
+                                <li><a class="scrollto" href="#academic" title="Academic">Academy Management</a></li>
+                                <li><a class="scrollto" href="#mark" title="Mark">Mark Manage</a></li>
+                                <li><a class="scrollto" href="#permission" title="How to Start">Permission</a></li>
+                                <li><a class="scrollto" href="#exammanage" title="Exam Management">Exam Management</a></li>
+                                <li><a class="scrollto" href="#online_exammanage" title="Online Exam Management">Online Exam Management</a></li>
+                                <li><a class="scrollto" href="#payroll" title="PayRoll Management system">PayRoll Management system</a></li>
+                                <li><a class="scrollto" href="#asset_assignment" title="Asset assignment System">Asset assignment System</a></li>
+                                <li><a class="scrollto" href="#inventory" title="Inventory Management">Inventory Management</a></li>
+                                <li><a class="scrollto" href="#leavemanagement" title="Leave Management">Leave Management</a></li>
+                                <li><a class="scrollto" href="#certificate" title="Certificate Management">Certificate Management</a></li>
+                                <li><a class="scrollto" href="#settings" title="How to Start">Settings</a></li>
+                                <li><a class="scrollto" href="#administrator" title="How to Start">Administrator</a></li>
+                                <li><a class="scrollto" href="#page_builder" title="How to Start">Page Make Module</a></li>
+                                <li><a class="scrollto" href="#frontend" title="How to Start">Frontend</a></li>
+                                <li><a class="scrollto" href="#report" title="How to Start">Report</a></li>
+                                <li><a class="scrollto" href="#automation" title="Automation">Auto Invoice</a></li>
+                                <li><a class="scrollto" href="#attendance" title="Attendance">Attendance</a></li>
+                                <li><a class="scrollto" href="#promotion" title="Promotion">Promotion</a></li>
+                                <li><a class="scrollto" href="#paypal" title="Paypal">PayPal</a></li>
+                                <li><a class="scrollto" href="#payumoney" title="PayUmoney">PayUmoney</a></li>
+                                <li><a class="scrollto" href="#stripe" title="stripe">Stripe</a></li>
+                                <li><a class="scrollto" href="#mailandsms" title="Mail/SMS">Mail/SMS</a></li>
+                                <li><a class="scrollto" href="#media" title="Media">Media</a></li>
+                                <li><a class="scrollto" href="#visitor" title="Visitor Pass">Visitor Pass</a></li>
+                                <li><a class="scrollto" href="#upgradeversion" title="Visitor Pass">Upgrade </a></li>
+                                <li><a class="scrollto" href="#developer_support" title="Developer support">Developer support</a></li>
+                                <li><a class="scrollto" href="#what_else" title="What else">What else</a></li>
+                            </ul><!--//doc-menu-->
+                        </nav>
+                    </div><!--//doc-sidebar-->
+                </div><!--//doc-body-->
+            </div><!--//container-->
+        </div><!--//doc-wrapper-->
+
+        <div id="promo-block" class="promo-block ">
+            <div class="container">
+                <div class="promo-block-inner">
+                    <h3 class="promo-title "><i class="fa fa-money"></i> <a href="https://codecanyon.net/item/itest-complete-online-examination-system/20620179" target="_blank">iTest - Complete Online Examination System</a></h3>
+                    <div class="row">
+                        <div class="figure-holder col-md-5 col-sm-6 col-xs-12">
+                            <div class="figure-holder-inner">
+                                <a href="https://codecanyon.net/item/itest-complete-online-examination-system/20620179" target="_blank"><img class="img-responsive" src="assets/images/itest/banner.jpeg" alt="ibill" /></a>
+                                <a class="mask" href="https://codecanyon.net/item/itest-complete-online-examination-system/20620179"><i class="icon fa fa-heart pink"></i></a>
+                            </div>
+                        </div>
+                        <div class="content-holder col-md-7 col-sm-6 col-xs-12">
+                            <div class="content-holder-inner">
+                                <div class="desc">
+                                    <h4 class="content-title"><strong>Tell me something about this system</strong></h4>
+                                    <p>iTest - Complete Online Examination System is uses for manage online exam at education based organization like school, college, universities etc. Or user can use it different purposes. Please read this documentation before you make your own.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div><!--//page-wrapper-->
+
+    <footer id="footer" class="footer text-center">
+        <div class="container">
+            <small class="copyright">Designed with <i class="fa fa-heart"></i> by <a href="http://inilabs.net/" targe="_blank">iNiLabs</a></small>
+
+        </div><!--//container-->
+    </footer><!--//footer-->
+
+
+    <!-- Main Javascript -->
+    <script type="text/javascript" src="assets/plugins/jquery-1.12.3.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/prism/prism.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/lightbox/dist/ekko-lightbox.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-match-height/jquery.matchHeight-min.js"></script>
+    <script type="text/javascript" src="assets/js/main.js"></script>
+
+</body>
+</html>

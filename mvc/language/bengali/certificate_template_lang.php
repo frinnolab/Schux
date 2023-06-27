@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "সার্টিফিকেট টেমপ্লেট";
+$lang['add_title'] = "যোগ একটি শংসাপত্র টেমপ্লেট";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "নাম";
+$lang['certificate_template_theme'] = "থিম";
+$lang['certificate_template_main_middle_text'] = "প্রধান মধ্যম টেক্সট";
+$lang['certificate_template_top_heading_title'] = "শীর্ষ শিরোনাম শিরোনাম";
+$lang['certificate_template_top_heading_left'] = "শীর্ষ শিরোনাম    বাম";
+$lang['certificate_template_top_heading_middle'] = "শীর্ষ শিরোনাম মধ্যম";
+$lang['certificate_template_top_heading_right'] = "শীর্ষ শিরোনাম    ডান";
+$lang['certificate_template_template'] = "টেমপ্লেট";
+$lang['certificate_template_footer_left_text'] = "পাদচরণ বাম    টেক্সট";
+$lang['certificate_template_footer_middle_text'] = "পাদচরণ মধ্যম টেক্সট";
+$lang['certificate_template_footer_right_text'] = "পাদচরণ    ডান টেক্সট";
+$lang['certificate_template_background_image'] = "পটভূমি ছবি";
+$lang['certificate_template_tags'] = "বিভাগ";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "নির্বাচন থিম";
+$lang['certificate_template_default'] 		= "ডিফল্ট";
+$lang['certificate_template_theme1'] 		= "থিম 1";
+$lang['certificate_template_theme2'] 		= "থিম 2";
+$lang['certificate_template_file_browse'] = "ফাইল    ব্রাউজ করুন";
+$lang['certificate_template_clear'] = "স্পষ্ট";
+$lang['add_certificate_template'] = "যোগ শংসাপত্র টেমপ্লেট";
+$lang['update_certificate_template'] = "আপডেট শংসাপত্র টেমপ্লেট";
+$lang['action'] = "কর্ম";
+$lang['view'] = "দেখুন";
+$lang['edit'] = "সম্পাদনা";
+$lang['delete'] = "মুছে দিন";
+$lang['print'] = "প্রিন্ট";
+$lang['pdf_preview'] = "Pdf সম্পূর্ণ বিবরণের পূর্বরূপ দেখুন";
+$lang["mail"] = "পাঠান পিডিএফ     মেইল";

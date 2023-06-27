@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "ট্যাবুলেশন শীট প্রতিবেদন";
+$lang['tabulationsheetreport_please_select'] = "দয়া করে নির্বাচন করুন";
+$lang['tabulationsheetreport_report_for'] = "প্রতিবেদন জন্য";
+$lang['tabulationsheetreport_class'] = "ক্লাস";
+$lang['tabulationsheetreport_section'] = "অধ্যায়";
+$lang['tabulationsheetreport_student'] = "ছাত্র";
+$lang['tabulationsheetreport_exam'] = "পরীক্ষার";
+$lang['tabulationsheetreport_tabulationsheet'] = "ট্যাবুলেশন শিট";
+$lang['tabulationsheetreport_all_class'] = "সব বর্গ";
+$lang['tabulationsheetreport_all_section'] = "সব অধ্যায়";
+$lang['tabulationsheetreport_name'] = "নাম";
+$lang['tabulationsheetreport_roll'] = "রোল";
+$lang['tabulationsheetreport_gpa'] = "জিপিএ";
+$lang['tabulationsheetreport_total'] = "মোট";
+$lang['tabulationsheetreport_print'] = "প্রিন্ট";
+$lang['tabulationsheetreport_submit'] = "পেতে প্রতিবেদন";
+$lang['tabulationsheetreport_pdf_preview'] = "Pdf সম্পূর্ণ বিবরণের পূর্বরূপ দেখুন";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "পাঠান পিডিএফ থেকে মেইল";
+$lang['tabulationsheetreport_hotline'] = "হটলাইন";
+$lang['tabulationsheetreport_to'] = "থেকে";
+$lang['tabulationsheetreport_subject'] = "বিষয়";
+$lang['tabulationsheetreport_message'] = "বার্তা";
+$lang['tabulationsheetreport_close'] = "বন্ধ";
+$lang['tabulationsheetreport_send'] = "পাঠান";
+$lang['tabulationsheetreport_mail_to'] = "এ থেকে ক্ষেত্র  হয় প্রয়োজন";
+$lang['tabulationsheetreport_mail_valid'] = "এ থেকে ক্ষেত্র আবশ্যক ধারণ A বৈধ ইমেইল ঠিকানা";
+$lang['tabulationsheetreport_mail_subject'] = "এ Subject ক্ষেত্র  হয় প্রয়োজন";
+$lang['mail_success'] = "ইমেল পাঠান সফলভাবে";
+$lang['mail_error'] = "ওহো, ইমেইল না পাঠান";
+$lang['tabulationsheetreport_data_not_found'] = "আপনার নিজস্ব't করেছেন কোন তথ্য";
+$lang['tabulationsheetreport_permission'] = "অনুমতি না অনুমতি";
+$lang['tabulationsheetreport_permissionmethod'] = "পদ্ধতি না অনুমতি";

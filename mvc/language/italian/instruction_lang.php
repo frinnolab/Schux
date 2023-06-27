@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Istruzione";
+$lang['add_title'] = "Aggiungere Un Istruzioni";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Titolo";
+$lang['instruction_content'] = "Contenuto";
+$lang['instruction_add'] = "Aggiungere";
+$lang['action'] = "Azione";
+$lang['view'] = "Vista";
+$lang['edit'] = "Modifica";
+$lang['delete'] = "Eliminare";
+$lang['print'] = "Stampa";
+$lang['pdf_preview'] = "Pdf Anteprima";
+$lang["mail"] = "Inviare Pdf A Mail";
+$lang['add_class'] = "Aggiungere Istruzioni";
+$lang['update_class'] = "Aggiornamento Istruzioni";
+$lang['to'] = "Per";
+$lang['subject'] = "Soggetto";
+$lang['message'] = "Messaggio";
+$lang['send'] = "Inviare";
+$lang['mail_to'] = "Il Al Campo Di Richiesto";
+$lang['mail_valid'] = "Il Al Campo Deve Contiene Un Valido Email Indirizzo";
+$lang['mail_subject'] = "Il Soggetto Campo Di Richiesto";
+$lang['mail_success'] = "E-mail Inviare Con Successo";
+$lang['mail_error'] = "Oops, E-mail Non Invio";
+$lang['instruction_to'] = "Per";
+$lang['instruction_subject'] = "Soggetto";
+$lang['instruction_message'] = "Messaggio";
+$lang['instruction_instructionID'] = "Istruzioni Id";
+$lang['instruction_data_not_found'] = "Don't Sono I Dati";
+$lang['instruction_permissionmethod'] = "Metodo Non Ha Permesso";
+$lang['instruction_permission'] = "Autorizzazione Non Ha Permesso";

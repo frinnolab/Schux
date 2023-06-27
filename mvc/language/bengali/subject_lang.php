@@ -1,0 +1,29 @@
+<?php
+
+$lang['panel_title'] = "বিষয়";
+$lang['add_title'] = "যোগ একটি বিষয়";
+$lang['slno'] = "#";
+$lang['subject_class_name'] = "ক্লাস নাম";
+$lang['subject_teacher_name'] = "শিক্ষক    নাম";
+$lang['subject_student'] = "ছাত্র";
+$lang['subject_name'] = "বিষয়    নাম";
+$lang['subject_author'] = "বিষয় লেখক";
+$lang['subject_code'] = "বিষয় কোড";
+$lang['subject_teacher'] = "শিক্ষক";
+$lang['subject_classes'] = "ক্লাস";
+$lang['subject_type'] = "টাইপ";
+$lang['subject_optional'] = "ঐচ্ছিক";
+$lang['subject_mandatory'] = "বাধ্যতামূলক";
+$lang['subject_passmark'] = "পাস চিহ্ন";
+$lang['subject_finalmark'] = "চূড়ান্ত চিহ্ন";
+$lang['subject_select_class'] = "নির্বাচন বর্গ";
+$lang['subject_select_type'] = "নির্বাচন    টাইপ";
+$lang['subject_select_classes'] = "নির্বাচন বর্গ";
+$lang['subject_select_teacher'] = "নির্বাচন শিক্ষক";
+$lang['subject_select_student'] = "নির্বাচন ছাত্রী";
+$lang['action'] = "কর্ম";
+$lang['view'] = "দেখুন";
+$lang['edit'] = "সম্পাদনা";
+$lang['delete'] = "মুছে দিন";
+$lang['add_subject'] = "যোগ বিষয়";
+$lang['update_subject'] = "আপডেট বিষয়";

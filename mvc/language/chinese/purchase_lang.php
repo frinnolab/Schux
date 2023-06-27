@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "购买";
+$lang['add_title'] = "添加 A 购买";
+$lang['slno'] = "#";
+$lang['purchase_title'] = "标题";
+$lang['purchase_assetID'] = "资产";
+$lang['purchase_quantity'] = "数量";
+$lang['purchase_unit'] = "单元";
+$lang['purchase_vendorID'] = "供应商";
+$lang['purchase_date'] = "购买 日期";
+$lang['purchase_unit_kg'] = "Kg";
+$lang['purchase_unit_piece'] = "片";
+$lang['purchase_unit_other'] = "其他的";
+$lang['purchase_unit'] = "单元";
+$lang['purchase_select_unit'] = "选择 单元";
+$lang['purchase_service_date'] = "服务 日期";
+$lang['purchase_expire_date'] = "过期的 日期";
+$lang['purchase_price'] = "购买 价格";
+$lang['purchased_by'] = "购买";
+$lang['purchase_select_asset'] = "选择 资产";
+$lang['purchase_select_vendor'] = "选择 供应商";
+$lang['purchase_select_purchased_by'] = "选择 用户";
+$lang['action'] = "动作";
+$lang['view'] = "看";
+$lang['edit'] = "编辑";
+$lang['delete'] = "删除";
+$lang['purchase_status_not_approved'] = "不 批准";
+$lang['purchase_status_approved'] = "批准";
+$lang['add_purchase'] = "添加 购买";
+$lang['update_purchase'] = "更新 购买";

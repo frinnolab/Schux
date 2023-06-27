@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "امتحان الجدول";
+$lang['add_title'] = "إضافة  امتحان الجدول";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "امتحان اسم";
+$lang['examschedule_classes'] = "الدرجة";
+$lang['examschedule_all_examschedule'] = "كل امتحان الجداول";
+$lang['examschedule_select_exam'] = "حدد الامتحان";
+$lang['examschedule_select_classes'] = "حدد فئة";
+$lang['examschedule_select_department'] = "حدد قسم";
+$lang['examschedule_select_subject'] = "حدد الموضوع";
+$lang['examschedule_select_section'] = "حدد القسم";
+$lang['examschedule_select_student'] = "حدد طالب";
+$lang['examschedule_section'] = "القسم";
+$lang['examschedule_student'] = "طالب";
+$lang['examschedule_subject'] = "الموضوع";
+$lang['examschedule_date'] = "تاريخ";
+$lang['examschedule_time'] = "الوقت";
+$lang['examschedule_examfrom'] = "الوقت من";
+$lang['examschedule_examto'] = "الوقت";
+$lang['examschedule_room'] = "غرفة";
+$lang['examschedule_note'] = "ملاحظة";
+$lang['examschedule_department'] = "قسم";
+$lang['examschedule_quick_add'] = "سريع إضافة";
+$lang['action'] = "العمل";
+$lang['view'] = "عرض";
+$lang['edit'] = "تحرير";
+$lang['delete'] = "حذف";
+$lang['add_examschedule'] = "إضافة امتحان الجدول";
+$lang['update_examschedule'] = "تحديث امتحان الجدول";

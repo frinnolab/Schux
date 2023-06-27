@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Intabulare Foaie Raport";
+$lang['tabulationsheetreport_please_select'] = "Vă Rugăm Să Selectați";
+$lang['tabulationsheetreport_report_for'] = "Raport De";
+$lang['tabulationsheetreport_class'] = "Clasa";
+$lang['tabulationsheetreport_section'] = "Secțiunea";
+$lang['tabulationsheetreport_student'] = "Student";
+$lang['tabulationsheetreport_exam'] = "Examen";
+$lang['tabulationsheetreport_tabulationsheet'] = "Intabulare Foaie";
+$lang['tabulationsheetreport_all_class'] = "Toate Clasa";
+$lang['tabulationsheetreport_all_section'] = "Toate Secțiunea";
+$lang['tabulationsheetreport_name'] = "Numele";
+$lang['tabulationsheetreport_roll'] = "Rola";
+$lang['tabulationsheetreport_gpa'] = "Aap";
+$lang['tabulationsheetreport_total'] = "Total";
+$lang['tabulationsheetreport_print'] = "Print";
+$lang['tabulationsheetreport_submit'] = "Ia Raport";
+$lang['tabulationsheetreport_pdf_preview'] = "Pdf Previzualizare";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "Trimite Pdf A E-mail";
+$lang['tabulationsheetreport_hotline'] = "Hotline";
+$lang['tabulationsheetreport_to'] = "Pentru A";
+$lang['tabulationsheetreport_subject'] = "Subiect";
+$lang['tabulationsheetreport_message'] = "Mesaj";
+$lang['tabulationsheetreport_close'] = "Aproape";
+$lang['tabulationsheetreport_send'] = "Trimite";
+$lang['tabulationsheetreport_mail_to'] = "A A Field E Necesar";
+$lang['tabulationsheetreport_mail_valid'] = "A A Field Trebuie Conțin O Valabil E-mail Adresa";
+$lang['tabulationsheetreport_mail_subject'] = "La Subiect Teren Este Necesar";
+$lang['mail_success'] = "E-mail Trimite Succes";
+$lang['mail_error'] = "Oops, E-mail Nu Trimite";
+$lang['tabulationsheetreport_data_not_found'] = "Nu't Au Orice Date";
+$lang['tabulationsheetreport_permission'] = "Permisiunea Nu Permis";
+$lang['tabulationsheetreport_permissionmethod'] = "Metoda Nu Permis";

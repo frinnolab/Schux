@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Marque Feuille Rapport";
+$lang['marksheetreport_please_select'] = "Merci Select";
+$lang['marksheetreport_class'] = "Classe";
+$lang['marksheetreport_section'] = "Section";
+$lang['marksheetreport_exam'] = "Examen";
+$lang['marksheetreport_report_for'] = "Rapport Pour";
+$lang['marksheetreport_marksheet'] = "Marque Feuille";
+$lang['marksheetreport_all_section'] = "";
+$lang['marksheetreport_submit'] = "Get Rapport";
+$lang['marksheetreport_print'] = "Imprimer";
+$lang['marksheetreport_pdf_preview'] = "Pdf Aperçu";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Envoyer Pdf À Mail";
+$lang['marksheetreport_hotline'] = "Hotline";
+$lang['marksheetreport_to'] = "Pour";
+$lang['marksheetreport_subject'] = "Sujet";
+$lang['marksheetreport_message'] = "Message";
+$lang['marksheetreport_close'] = "Fermer";
+$lang['marksheetreport_send'] = "Envoyer";
+$lang['marksheetreport_mail_to'] = "L' De Terrain Est Requis";
+$lang['marksheetreport_mail_valid'] = "L' De Terrain Doit Contient Une Valide E-mail Adresse";
+$lang['marksheetreport_mail_subject'] = "Le Sujet Terrain Est Requis";
+$lang['mail_success'] = "E-mail Envoyer De Succès";
+$lang['mail_error'] = "Oups, E-mail Pas Envoyer";
+$lang['marksheetreport_data_not_found'] = "N''t Ont Tout Données";
+$lang['marksheetreport_examid_not_found'] = "Examen Id Pas Trouvé";
+$lang['marksheetreport_permission'] = "Autorisation Pas Permis";
+$lang['marksheetreport_permissionmethod'] = "Méthode Pas Permis";

@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Табулирование Лист Отчет";
+$lang['tabulationsheetreport_please_select'] = "Пожалуйста Выберите";
+$lang['tabulationsheetreport_report_for'] = "Отчет По";
+$lang['tabulationsheetreport_class'] = "Класс";
+$lang['tabulationsheetreport_section'] = "Раздел";
+$lang['tabulationsheetreport_student'] = "Студент";
+$lang['tabulationsheetreport_exam'] = "Экзамен";
+$lang['tabulationsheetreport_tabulationsheet'] = "Лист Табулирования";
+$lang['tabulationsheetreport_all_class'] = "Все Класс";
+$lang['tabulationsheetreport_all_section'] = "Все Раздел";
+$lang['tabulationsheetreport_name'] = "Название";
+$lang['tabulationsheetreport_roll'] = "Ролл";
+$lang['tabulationsheetreport_gpa'] = "ГПД";
+$lang['tabulationsheetreport_total'] = "Общая";
+$lang['tabulationsheetreport_print'] = "Печать";
+$lang['tabulationsheetreport_submit'] = "Вам Отчет";
+$lang['tabulationsheetreport_pdf_preview'] = "Формат Pdf превью";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "Отправить В Pdf В Электронной Почты";
+$lang['tabulationsheetreport_hotline'] = "Горячая линия";
+$lang['tabulationsheetreport_to'] = "Для";
+$lang['tabulationsheetreport_subject'] = "Тема";
+$lang['tabulationsheetreport_message'] = "Сообщение";
+$lang['tabulationsheetreport_close'] = "Рядом";
+$lang['tabulationsheetreport_send'] = "Отправить";
+$lang['tabulationsheetreport_mail_to'] = "В в поле это требуются";
+$lang['tabulationsheetreport_mail_valid'] = "В в поле должны содержат а действителен почта адрес";
+$lang['tabulationsheetreport_mail_subject'] = "На тему поле это требуются";
+$lang['mail_success'] = "Почта отправить успешно";
+$lang['mail_error'] = "Упс%2С Почта не отправка";
+$lang['tabulationsheetreport_data_not_found'] = "Дон'Т уже все данные";
+$lang['tabulationsheetreport_permission'] = "Разрешение не допускается";
+$lang['tabulationsheetreport_permissionmethod'] = "Способ не допускается";

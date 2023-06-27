@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "分配";
+$lang['add_title'] = "添加 A 分配";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "类";
+$lang['assignment_title'] = "标题";
+$lang['assignment_description'] = "描述";
+$lang['assignment_deadlinedate'] = "截止日期";
+$lang['assignment_uploder'] = "上传";
+$lang['assignment_photo'] = "照片";
+$lang['assignment_student'] = "学生";
+$lang['assignment_roll'] = "滚";
+$lang['assignment_submission'] = "提交 日期";
+$lang['assignment_section'] = "部分";
+$lang['assignment_subject'] = "受";
+$lang['assignment_select_classes'] = "选择 类";
+$lang['assignment_select_student'] = "选择 学生";
+$lang['assignment_select_section'] = "选择 部分";
+$lang['assignment_select_subject'] = "选择 受";
+$lang['assignment_file'] = "文件";
+$lang['assignment_file_browse'] = "文件 浏览";
+$lang['assignment_clear'] = "清楚的";
+$lang['assignment_ans'] = "答案";
+$lang['assignment_ans_list'] = "回答 列表";
+$lang['action'] = "动作";
+$lang['download'] = "下载";
+$lang['view'] = "看";
+$lang['edit'] = "编辑";
+$lang['delete'] = "删除";
+$lang['upload'] = "上传";
+$lang['add_assignment_ans'] = "增加的回答";
+$lang['add_assignment'] = "添加 分配";
+$lang['update_assignment'] = "更新 分配";

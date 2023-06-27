@@ -1,0 +1,33 @@
+<?php
+
+$lang['slno'] = "#";
+$lang['panel_title'] = "Biblioteca De Livros Relatório";
+$lang['librarybooksreport_report_for'] = "Relatório De Para";
+$lang['librarybooksreport_please_select'] = "Por Favor, Seleccionar";
+$lang['librarybooksreport_bookname'] = "Livro Nome";
+$lang['librarybooksreport_author'] = "Autor";
+$lang['librarybooksreport_subjectcode'] = "Sujeito Código";
+$lang['librarybooksreport_rackNo'] = "Rack Não";
+$lang['librarybooksreport_status'] = "Estado";
+$lang['librarybooksreport_available'] = "Disponível";
+$lang['librarybooksreport_unavailable'] = "Não Disponível";
+$lang['librarybooksreport_librarybooks'] = "Biblioteca De Livros";
+$lang['librarybooksreport_submit'] = "Receba Relatório";
+$lang['librarybooksreport_print'] = "Imprimir";
+$lang['librarybooksreport_pdf_preview'] = "Pdf Pré-visualização";
+$lang['librarybooksreport_xlsx'] = "Xlsx";
+$lang['librarybooksreport_mail'] = "Enviar Pdf Para Correio";
+$lang['librarybooksreport_hotline'] = "Linha Direta";
+$lang['librarybooksreport_to'] = "Para";
+$lang['librarybooksreport_subject'] = "Assunto";
+$lang['librarybooksreport_message'] = "Mensagem";
+$lang['librarybooksreport_close'] = "Fechar";
+$lang['librarybooksreport_send'] = "Enviar";
+$lang['librarybooksreport_mail_to'] = "De Campo é Necessário";
+$lang['librarybooksreport_mail_valid'] = "De Campo Deve Conter Um Válidos E-mail Endereço";
+$lang['librarybooksreport_mail_subject'] = "O Assunto Campo é Necessário";
+$lang['mail_success'] = "E-mail Enviar Com Sucesso";
+$lang['mail_error'] = "Oops, E-mail Não Enviar";
+$lang['librarybooksreport_data_not_found'] = "Dados Não Encontrado";
+$lang['librarybooksreport_permission'] = "Permissão Não Permitidos";
+$lang['librarybooksreport_permissionmethod'] = "Método De Não Permitidos";

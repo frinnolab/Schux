@@ -1,0 +1,35 @@
+<?php
+
+$lang['panel_title'] = "支付 设置";
+$lang['paypal_email'] = "贝宝 电子邮件";
+$lang['paypal_api_username'] = "贝宝 Api 用户名";
+$lang['paypal_api_password'] = "贝宝 Api 密码";
+$lang['paypal_api_signature'] = "贝宝 Api 签名";
+$lang['paypal_demo'] = "贝宝 沙箱";
+$lang['paypal_status'] = "贝宝 状态";
+$lang['stripe_secret'] = "条 秘密";
+$lang['stripe_demo'] = "条演示";
+$lang['stripe_status'] = "条 状态";
+$lang['payumoney_key'] = "Payumoney 键";
+$lang['payumoney_salt'] = "Payumoney 盐";
+$lang['payumoney_demo'] = "Payumoney演示";
+$lang['payumoney_status'] = "Payumoney 状态";
+$lang['voguepay_merchant_id'] = "商 Id";
+$lang['voguepay_merchant_ref'] = "商 参考";
+$lang['voguepay_developer_code'] = "开发 码";
+$lang['voguepay_demo'] = "演示";
+$lang['voguepay_status'] = "状态";
+$lang['enable'] = "启用";
+$lang['disable'] = "禁用";
+$lang['save'] = "保存";
+$lang['tab_paypal'] = "贝宝";
+$lang['tab_stripe'] = "条纹";
+$lang['tab_payumoney'] = "Payumoney";
+$lang['tab_voguepay'] = "Voguepay";
+$lang['update_success'] = "更新多个成功的";
+$lang['tab_remita'] = "Remita";
+$lang['remita_demo'] = "Remita演示";
+$lang['remita_merchant_id'] = "马钱 Id";
+$lang['remita_servicetypeid'] = "服务 型 Id";
+$lang['remita_apikey'] = "Api 键";
+$lang['remita_status'] = "Remita 状态";

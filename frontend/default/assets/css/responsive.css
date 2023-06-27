@@ -1,0 +1,299 @@
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .header-top-area ul:after {
+        left: -48px;
+    }
+
+
+
+
+
+    .caption h2 {
+        font-size: 38px;
+    }
+
+
+
+
+
+
+    .caption p {
+        font-size: 16px;
+    }
+    .notice-content h3 {
+        font-size: 22px;
+    }
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-top-area:after {
+        width: 32%;
+    }
+    .header-top-area ul:after {
+        left: -51px;
+    }
+    .header-menu-area .text-right {
+        text-align: center;
+    }
+    .navbar-header {
+        float: none;
+        text-align: center;
+    }
+    .navbar-right {
+        float: none !important;
+        text-align: center;
+    }
+    /*add hobbeee start*/
+    .navbar-nav > li > a, .sticky--nav .navbar-nav > li > a {
+        padding: 30px 0 30px 25px;
+    }
+    /*add hobbeee end*/
+    .caption {
+        width: 450px;
+    }
+
+
+
+
+
+    .caption h2 {
+        font-size: 35px;
+    }
+
+
+
+
+
+
+
+
+    .btn-1 {
+        height: 38px;
+        line-height: 38px;
+    }
+    .about-img {
+        margin-right: 0px;
+    }
+    .single-counter {
+        margin: 15px 0;
+    }
+    .single-gallery {
+        width: calc(100% / 3);
+    }
+    .event-content {
+        padding: 20px 20px;
+    }
+    .event-info h4 {
+        font-size: 14px;
+    }
+    .single-notice {
+        padding: 25px 20px;
+    }
+    .notice-content h3 {
+        font-size: 16px;
+    }
+    .notice-meta span {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .header-top-area .text-right, .footer-area, .footer-social-icons.text-right {
+        text-align: center;
+    }
+    .logo {
+        margin: 20px 0;
+    }
+    .logo h1 {
+        font-size: 20px;
+    }
+    .header-menu-area .text-center {
+        text-align: left;
+    }
+    .header-menu-area .container {
+        width: 290px;
+    }
+    .navbar-nav {
+        margin: 7.5px -15px;
+        background-color: #222;
+    }
+    /*add hobeeeee start*/
+    .header-menu-area .dropdown-menu>li>a {
+        color: #fff
+    }
+    .navbar-nav > li > a, .sticky--nav .navbar-nav > li > a {
+        padding: 10px;
+        color: #fff;
+    }
+    .nav > li > a:hover {
+        background-color: #86bc42;
+    }
+
+    /*add hobeeeee end*/
+
+    
+    /* baddd jabee start
+
+    .nav > li.active > a {
+        color: #fff;
+    }
+    .header-menu-area.navbar {
+        min-height: 0
+    }
+    .navbar-header {
+        display: none;
+    }
+    .banner--stick  .navbar-header {
+        display: block;
+    }  baddd jabee end */
+
+
+
+
+
+    .slider-area .single-slide img {
+        height: 345px;
+    }
+
+
+
+
+
+
+
+
+    .caption {
+        width: 215px;
+    }
+
+
+
+
+
+
+    .caption h2 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+    .caption p {
+        display: none;
+    }
+    .btn-1 {
+        height: 38px;
+        line-height: 38px;
+    }
+    .section-title h2 {
+        font-size: 20px;
+    }
+
+
+
+
+
+
+
+
+
+
+    .content-img {
+        margin-right: 0px;
+    }
+    .content-img:after {
+        top: 36px;
+        width: 97%;
+        height: 86%;
+    }
+
+
+
+
+
+
+
+    .about-content {
+        margin-top: 45px;
+    }
+    .single-counter {
+        margin: 20px 0;
+    }
+    .single-gallery {
+        width: calc(100% / 2);
+    }
+    .events-area {
+        border-top: 1px solid #eee;
+    }
+    .schedule-menu ul li a {
+        padding: 10px 6px;
+        font-size: 12px;
+    }
+    .notice-carousel.owl-carousel .owl-nav div {
+        left: 42%;
+    }
+    .notice-carousel.owl-carousel .owl-nav div.owl-next {
+        left: 56%;
+    }
+    .input-box:nth-of-type(-n+2) {
+        width: 100%;
+    }
+    .footer-widget {
+        margin-bottom: 30px;
+    }
+    .copyright {
+        margin-bottom: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+    .login-form {
+        margin-top: 75px;
+    }
+    .login-title::after {
+        bottom: -4%;
+    }
+    .login-title h3 {
+        font-size: 18px
+    }
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+}
+
+
+@media screen and (min-width: 768px) {
+  .dropdown:hover .dropdown-menu{
+        display: block;
+    }
+    .dropdown-menu{
+        margin-top: 0;
+    }
+    .dropdown-toggle{
+        margin-bottom: 2px;
+    }
+    .navbar .dropdown-toggle, .nav-tabs .dropdown-toggle{
+        margin-bottom: 0;
+    }
+}

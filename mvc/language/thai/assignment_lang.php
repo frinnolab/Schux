@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "การบ้าน";
+$lang['add_title'] = "เพิ่ม A งาน";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "ชั้นเรียน";
+$lang['assignment_title'] = "หัวเรื่อง";
+$lang['assignment_description'] = "รายละเอียด";
+$lang['assignment_deadlinedate'] = "ขีดเส้นตาย";
+$lang['assignment_uploder'] = "Uploader";
+$lang['assignment_photo'] = "ภาพถ่าย";
+$lang['assignment_student'] = "นักเรียน";
+$lang['assignment_roll'] = "ม้วน";
+$lang['assignment_submission'] = "ส่ง เดท";
+$lang['assignment_section'] = "ส่วน";
+$lang['assignment_subject'] = "เรื่อง";
+$lang['assignment_select_classes'] = "เลือก เรียน";
+$lang['assignment_select_student'] = "เลือก นักเรียน";
+$lang['assignment_select_section'] = "เลือก ส่วน";
+$lang['assignment_select_subject'] = "เลือก เรื่อง";
+$lang['assignment_file'] = "แฟ้ม";
+$lang['assignment_file_browse'] = "แฟ้ม เรียกดู";
+$lang['assignment_clear'] = "ชัดเจน";
+$lang['assignment_ans'] = "คำตอบ";
+$lang['assignment_ans_list'] = "คำตอบ รายการ";
+$lang['action'] = "การกระทำ";
+$lang['download'] = "ดาวน์โหลด";
+$lang['view'] = "มุมมอง";
+$lang['edit'] = "แก้ไข";
+$lang['delete'] = "ลบ";
+$lang['upload'] = "อัปโหลด";
+$lang['add_assignment_ans'] = "เพิ่ม ตอบ";
+$lang['add_assignment'] = "เพิ่ม งาน";
+$lang['update_assignment'] = "ปรับปรุง งาน";

@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Инструкция";
+$lang['add_title'] = "Добавить в инструкция";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Название";
+$lang['instruction_content'] = "Содержание";
+$lang['instruction_add'] = "Добавить";
+$lang['action'] = "Действие";
+$lang['view'] = "Вид";
+$lang['edit'] = "Редактировать";
+$lang['delete'] = "Удалить";
+$lang['print'] = "Печать";
+$lang['pdf_preview'] = "Формат Pdf превью";
+$lang["mail"] = "Отправить в Pdf в электронной почты";
+$lang['add_class'] = "Добавить Инструкция";
+$lang['update_class'] = "Обновление Инструкция";
+$lang['to'] = "Для";
+$lang['subject'] = "Тема";
+$lang['message'] = "Сообщение";
+$lang['send'] = "Отправить";
+$lang['mail_to'] = "В в поле это требуются";
+$lang['mail_valid'] = "В в поле должны содержат а действителен почта адрес";
+$lang['mail_subject'] = "На тему поле это требуются";
+$lang['mail_success'] = "Почта отправить успешно";
+$lang['mail_error'] = "Упс%2С Почта не отправка";
+$lang['instruction_to'] = "Для";
+$lang['instruction_subject'] = "Тема";
+$lang['instruction_message'] = "Сообщение";
+$lang['instruction_instructionID'] = "Инструкция код";
+$lang['instruction_data_not_found'] = "Дон'Т уже все данные";
+$lang['instruction_permissionmethod'] = "Способ не допускается";
+$lang['instruction_permission'] = "Разрешение не допускается";

@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Mark Formu Rapor";
+$lang['marksheetreport_please_select'] = "Lütfen Seçin";
+$lang['marksheetreport_class'] = "Sınıf";
+$lang['marksheetreport_section'] = "Bölüm";
+$lang['marksheetreport_exam'] = "Sınav";
+$lang['marksheetreport_report_for'] = "Rapor İçin";
+$lang['marksheetreport_marksheet'] = "Mark Sayfası";
+$lang['marksheetreport_all_section'] = "Tüm Bölüm";
+$lang['marksheetreport_submit'] = "Rapor Almak";
+$lang['marksheetreport_print'] = "Baskı";
+$lang['marksheetreport_pdf_preview'] = "Pdf Önizleme";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Posta İçin Pdf Gönder";
+$lang['marksheetreport_hotline'] = "Hattı";
+$lang['marksheetreport_to'] = "";
+$lang['marksheetreport_subject'] = "Konu";
+$lang['marksheetreport_message'] = "";
+$lang['marksheetreport_close'] = "Yakın";
+$lang['marksheetreport_send'] = "Gönder";
+$lang['marksheetreport_mail_to'] = "Alan İçin Gerekli";
+$lang['marksheetreport_mail_valid'] = "Alan İçin Içeren  Geçerli E-posta Adresi Gerekir";
+$lang['marksheetreport_mail_subject'] = "Konu Alan  Gereklidir";
+$lang['mail_success'] = "E-posta Başarılı Gönder";
+$lang['mail_error'] = "Oops, E-posta Gönder Değil";
+$lang['marksheetreport_data_not_found'] = "Yok't Herhangi Veri Var";
+$lang['marksheetreport_examid_not_found'] = "Sınav Id Değil Buldu";
+$lang['marksheetreport_permission'] = "İzin  Değil";
+$lang['marksheetreport_permissionmethod'] = "Yöntem  İzin Verilmiyor";

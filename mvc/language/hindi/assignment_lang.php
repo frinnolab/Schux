@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "असाइनमेंट";
+$lang['add_title'] = "जोड़ें एक असाइनमेंट";
+$lang['slno'] = "#";
+$lang['assignment_classes'] = "वर्ग";
+$lang['assignment_title'] = "शीर्षक";
+$lang['assignment_description'] = "विवरण";
+$lang['assignment_deadlinedate'] = "समय सीमा";
+$lang['assignment_uploder'] = "अपलोडर";
+$lang['assignment_photo'] = "फोटो";
+$lang['assignment_student'] = "छात्र";
+$lang['assignment_roll'] = "रोल";
+$lang['assignment_submission'] = "प्रस्तुत तारीख";
+$lang['assignment_section'] = "अनुभाग";
+$lang['assignment_subject'] = "विषय";
+$lang['assignment_select_classes'] = "का चयन करें वर्ग";
+$lang['assignment_select_student'] = "का चयन करें छात्र";
+$lang['assignment_select_section'] = "का चयन करें धारा";
+$lang['assignment_select_subject'] = "का चयन करें विषय";
+$lang['assignment_file'] = "फ़ाइल";
+$lang['assignment_file_browse'] = "फ़ाइल ब्राउज़ करें";
+$lang['assignment_clear'] = "स्पष्ट";
+$lang['assignment_ans'] = "जवाब";
+$lang['assignment_ans_list'] = "जवाब सूची";
+$lang['action'] = "कार्रवाई";
+$lang['download'] = "डाउनलोड";
+$lang['view'] = "देखें";
+$lang['edit'] = "संपादित करें";
+$lang['delete'] = "हटाना";
+$lang['upload'] = "अपलोड";
+$lang['add_assignment_ans'] = "जोड़ें जवाब";
+$lang['add_assignment'] = "जोड़ें असाइनमेंट";
+$lang['update_assignment'] = "अद्यतन असाइनमेंट";

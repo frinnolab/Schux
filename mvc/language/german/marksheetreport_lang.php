@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Mark Blatt Bericht";
+$lang['marksheetreport_please_select'] = "Bitte Auswählen";
+$lang['marksheetreport_class'] = "Klasse";
+$lang['marksheetreport_section'] = "Abschnitt";
+$lang['marksheetreport_exam'] = "Prüfung";
+$lang['marksheetreport_report_for'] = "Bericht Für";
+$lang['marksheetreport_marksheet'] = "Mark Blatt";
+$lang['marksheetreport_all_section'] = "All Bereich";
+$lang['marksheetreport_submit'] = "Erhalten Bericht";
+$lang['marksheetreport_print'] = "Drucken";
+$lang['marksheetreport_pdf_preview'] = "Pdf-datei Vorschau";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Senden Pdf Zu E-mail";
+$lang['marksheetreport_hotline'] = "Hotline";
+$lang['marksheetreport_to'] = "Zu";
+$lang['marksheetreport_subject'] = "Thema";
+$lang['marksheetreport_message'] = "Nachricht";
+$lang['marksheetreport_close'] = "In Der Nähe";
+$lang['marksheetreport_send'] = "Senden";
+$lang['marksheetreport_mail_to'] = "Die Zu Field Ist Notwendig";
+$lang['marksheetreport_mail_valid'] = "Die Zu Field Muss Enthalten A Valid Email Adresse";
+$lang['marksheetreport_mail_subject'] = "Das Thema Field Ist Notwendig";
+$lang['mail_success'] = "E-mail Senden Erfolgreich";
+$lang['mail_error'] = "Hoppla, E-mail Nicht Zu Senden";
+$lang['marksheetreport_data_not_found'] = "Don't Haben Alle Daten";
+$lang['marksheetreport_examid_not_found'] = "Prüfung Id Nicht Gefunden";
+$lang['marksheetreport_permission'] = "Berechtigung Nicht Erlaubt";
+$lang['marksheetreport_permissionmethod'] = "Methode Nicht Erlaubt";

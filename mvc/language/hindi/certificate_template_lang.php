@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "प्रमाणपत्र टेम्पलेट";
+$lang['add_title'] = "जोड़ें A प्रमाणपत्र टेम्पलेट";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "नाम";
+$lang['certificate_template_theme'] = "विषय";
+$lang['certificate_template_main_middle_text'] = "मुख्य मध्य पाठ";
+$lang['certificate_template_top_heading_title'] = "शीर्ष शीर्षक शीर्षक";
+$lang['certificate_template_top_heading_left'] = "शीर्ष शीर्षक वाम";
+$lang['certificate_template_top_heading_middle'] = "शीर्ष शीर्षक मध्य";
+$lang['certificate_template_top_heading_right'] = "शीर्ष शीर्षक सही";
+$lang['certificate_template_template'] = "टेम्पलेट";
+$lang['certificate_template_footer_left_text'] = "पाद वाम पाठ";
+$lang['certificate_template_footer_middle_text'] = "पाद मध्य पाठ";
+$lang['certificate_template_footer_right_text'] = "पाद अधिकार पाठ";
+$lang['certificate_template_background_image'] = "पृष्ठभूमि छवि";
+$lang['certificate_template_tags'] = "टैग";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "का चयन एक विषय";
+$lang['certificate_template_default'] 		= "डिफ़ॉल्ट";
+$lang['certificate_template_theme1'] 		= "विषय 1";
+$lang['certificate_template_theme2'] 		= "विषय 2";
+$lang['certificate_template_file_browse'] = "फ़ाइल ब्राउज़ करें";
+$lang['certificate_template_clear'] = "स्पष्ट";
+$lang['add_certificate_template'] = "जोड़ें प्रमाणपत्र टेम्पलेट";
+$lang['update_certificate_template'] = "अद्यतन प्रमाणपत्र टेम्पलेट";
+$lang['action'] = "कार्रवाई";
+$lang['view'] = "देखें";
+$lang['edit'] = "संपादित करें";
+$lang['delete'] = "हटाना";
+$lang['print'] = "प्रिंट";
+$lang['pdf_preview'] = "पीडीएफ पूर्वावलोकन";
+$lang["mail"] = "भेजें पीडीएफ  करने के लिए मेल";

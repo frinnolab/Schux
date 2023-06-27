@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "ใบรับรอง รายงาน";
+$lang['certificatereport_select_all_section'] = "ทุ ส่วน";
+$lang['certificatereport_all_section'] = "ทุ ส่วน";
+$lang['certificatereport_report'] = "ใบรับรอง";
+$lang['certificatereport_report_for'] = "รายงาน สำหรับ";
+$lang['certificatereport_class'] = "ชั้นเรียน";
+$lang['certificatereport_photo'] = "ภาพถ่าย";
+$lang['certificatereport_name'] = "ชื่อ";
+$lang['certificatereport_roll'] = "ม้วน";
+$lang['certificatereport_section'] = "ส่วน";
+$lang['certificatereport_action'] = "การกระทำ";
+$lang['certificatereport_student_not_found'] = "ไม่'t มี มี นักเรียน";
+$lang['certificatereport_select_class'] = "เลือก เรียน";
+$lang['certificatereport_select_section'] = "เลือก ส่วน";
+$lang['certificatereport_certificate'] = "ใบรับรอง";
+$lang['certificatereport_select_academic_year'] = "เลือก การศึกษา ปี";
+$lang['certificatereport_select_template'] = "เลือก ต้นแบบ";
+$lang['certificatereport_academic_year'] = "การศึกษา ปี";
+$lang['certificatereport_template'] = "ต้นแบบ";
+$lang['certificatereport_generate_certificate'] = "สร้าง ใบรับรอง";
+$lang['certificatereport_submit'] = "เอา รายงาน";
+$lang['certificatereport_academicyear'] = "การศึกษา ปี";
+$lang['certificatereport_classname'] = "ชั้นเรียน ชื่อ";
+$lang['certificatereport_sectionname'] = "ส่วน ชื่อ";
+$lang['certificatereport_templatename'] = "ต้นแบบ ชื่อ";
+$lang['certificatereport_please_select'] = "ได้โปรด เลือก";
+$lang['certificatereport_print'] = "การพิมพ์";
+$lang['certificatereport_pdf_preview'] = "เอกสาร Pdf แสดงตัวอย่าง";
+$lang['certificatereport_xml'] = "Xml";
+$lang['certificatereport_mail'] = "ส่ง เอกสาร Pdf จะ จดหมาย";
+$lang['report_certificate'] = "ใบรับรอง";

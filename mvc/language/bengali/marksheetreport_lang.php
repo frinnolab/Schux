@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "মার্ক শীট প্রতিবেদন";
+$lang['marksheetreport_please_select'] = "দয়া করে নির্বাচন করুন";
+$lang['marksheetreport_class'] = "ক্লাস";
+$lang['marksheetreport_section'] = "অধ্যায়";
+$lang['marksheetreport_exam'] = "পরীক্ষার";
+$lang['marksheetreport_report_for'] = "প্রতিবেদন জন্য";
+$lang['marksheetreport_marksheet'] = "মার্ক শিট";
+$lang['marksheetreport_all_section'] = "সব অধ্যায়";
+$lang['marksheetreport_submit'] = "পেতে প্রতিবেদন";
+$lang['marksheetreport_print'] = "প্রিন্ট";
+$lang['marksheetreport_pdf_preview'] = "Pdf সম্পূর্ণ বিবরণের পূর্বরূপ দেখুন";
+$lang['marksheetreport_xml'] = "এক্সএমএল";
+$lang['marksheetreport_mail'] = "পাঠান পিডিএফ থেকে মেইল";
+$lang['marksheetreport_hotline'] = "হটলাইন";
+$lang['marksheetreport_to'] = "থেকে";
+$lang['marksheetreport_subject'] = "বিষয়";
+$lang['marksheetreport_message'] = "বার্তা";
+$lang['marksheetreport_close'] = "বন্ধ";
+$lang['marksheetreport_send'] = "পাঠান";
+$lang['marksheetreport_mail_to'] = "এ থেকে ক্ষেত্র  হয় প্রয়োজন";
+$lang['marksheetreport_mail_valid'] = "এ থেকে ক্ষেত্র আবশ্যক ধারণ A বৈধ ইমেইল ঠিকানা";
+$lang['marksheetreport_mail_subject'] = "এ বিষয় ক্ষেত্র  হয় প্রয়োজন";
+$lang['mail_success'] = "ইমেল পাঠান সফলভাবে";
+$lang['mail_error'] = "ওহো, ইমেইল না পাঠান";
+$lang['marksheetreport_data_not_found'] = "আপনার নিজস্ব't করেছেন কোন তথ্য";
+$lang['marksheetreport_examid_not_found'] = "পরীক্ষার       আইডি না পাওয়া";
+$lang['marksheetreport_permission'] = "অনুমতি না অনুমতি";
+$lang['marksheetreport_permissionmethod'] = "পদ্ধতি না অনুমতি";

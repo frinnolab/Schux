@@ -1,0 +1,31 @@
+<?php
+
+$lang['panel_title'] = "Экзамен Расписание";
+$lang['add_title'] = "Добавить в ЕГЭ расписание";
+$lang['slno'] = "#";
+$lang['examschedule_name'] = "Экзамен Имя";
+$lang['examschedule_classes'] = "Класс";
+$lang['examschedule_all_examschedule'] = "Все Экзамен Графики";
+$lang['examschedule_select_exam'] = "Выберите Экзамен";
+$lang['examschedule_select_classes'] = "Выберите Класс";
+$lang['examschedule_select_department'] = "Выберите Отдел";
+$lang['examschedule_select_subject'] = "Выберите Теме";
+$lang['examschedule_select_section'] = "Раздел Выберите";
+$lang['examschedule_select_student'] = "Выберите Студент";
+$lang['examschedule_section'] = "Раздел";
+$lang['examschedule_student'] = "Студент";
+$lang['examschedule_subject'] = "Тема";
+$lang['examschedule_date'] = "Дата";
+$lang['examschedule_time'] = "Время";
+$lang['examschedule_examfrom'] = "Время От";
+$lang['examschedule_examto'] = "Время В";
+$lang['examschedule_room'] = "Номер";
+$lang['examschedule_note'] = "Примечание";
+$lang['examschedule_department'] = "Отдел";
+$lang['examschedule_quick_add'] = "Быстрая Добавить";
+$lang['action'] = "Действие";
+$lang['view'] = "Вид";
+$lang['edit'] = "Редактировать";
+$lang['delete'] = "Удалить";
+$lang['add_examschedule'] = "Добавить Экзамен Расписание";
+$lang['update_examschedule'] = "Обновление Экзамен Расписание";

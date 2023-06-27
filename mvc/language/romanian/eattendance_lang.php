@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Examen Prezență";
+$lang['add_title'] = "Adaugă Examen Prezență";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "Foto";
+$lang['eattendance_name'] = "Numele";
+$lang['eattendance_email'] = "E-mail";
+$lang['eattendance_roll'] = "Rola";
+$lang['eattendance_phone'] = "Telefon";
+$lang['eattendance_attendance'] = "Participarea";
+$lang['eattendance_section'] = "Secțiunea";
+$lang['eattendance_exam'] = "Examen";
+$lang['eattendance_classes'] = "Clasa";
+$lang['eattendance_subject'] = "Subiect";
+$lang['eattendance_status'] = "Starea";
+$lang['eattendance_student'] = "Student";
+$lang['eattendance_all_students'] = "Toate Elevi";
+$lang['eattendance_present'] = "Prezent";
+$lang['eattendance_absent'] = "Absent";
+$lang['eattendance_details'] = "Examen Participarea Detalii";
+$lang['eattendance_select_exam'] = "Selectați Examen";
+$lang['eattendance_select_classes'] = "Selectați Clasa A";
+$lang['eattendance_select_subject'] = "Selectați Subiect";
+$lang['eattendance_select_section'] = "Selectați Secțiunea";
+$lang['eattendance_select_student'] = "Selectați Pentru Studenți";
+$lang['action'] = "Acțiune";
+$lang['add_attendance'] = "Participarea";
+$lang['add_all_attendance'] = "Adaugă Toate Prezență";
+$lang['view_attendance'] = "Vedere Prezență";

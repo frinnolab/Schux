@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "Sertifika Şablon";
+$lang['add_title'] = "Eklemek Sertifika Bir şablon";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "Adı";
+$lang['certificate_template_theme'] = "Tema";
+$lang['certificate_template_main_middle_text'] = "Ana Orta Metin";
+$lang['certificate_template_top_heading_title'] = "Üst Başlık Başlık";
+$lang['certificate_template_top_heading_left'] = "Üst Başlık Sol";
+$lang['certificate_template_top_heading_middle'] = "Üst Orta Başlık";
+$lang['certificate_template_top_heading_right'] = "Üst  Başlık";
+$lang['certificate_template_template'] = "Şablon";
+$lang['certificate_template_footer_left_text'] = "Altbilgi Sol Metin";
+$lang['certificate_template_footer_middle_text'] = "Altbilgi Orta Metin";
+$lang['certificate_template_footer_right_text'] = "Altbilgi Sağ Metin";
+$lang['certificate_template_background_image'] = "Arkaplan Görüntü";
+$lang['certificate_template_tags'] = "Etiketler";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "Seçin Tema";
+$lang['certificate_template_default'] 		= "Varsayılan";
+$lang['certificate_template_theme1'] 		= "1 Tema";
+$lang['certificate_template_theme2'] 		= "2 Tema";
+$lang['certificate_template_file_browse'] = "Dosyası Gözat";
+$lang['certificate_template_clear'] = "Açık";
+$lang['add_certificate_template'] = "Sertifika Şablon Ekle";
+$lang['update_certificate_template'] = "Güncelleme Sertifika Şablon";
+$lang['action'] = "Eylem";
+$lang['view'] = "Görünüm";
+$lang['edit'] = "Düzenle";
+$lang['delete'] = "Sil";
+$lang['print'] = "Baskı";
+$lang['pdf_preview'] = "Pdf Önizleme";
+$lang["mail"] = "Posta  Pdf Gönder";

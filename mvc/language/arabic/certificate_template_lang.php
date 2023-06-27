@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "شهادة قالب";
+$lang['add_title'] = "إضافة A شهادة قالب";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "اسم";
+$lang['certificate_template_theme'] = "موضوع";
+$lang['certificate_template_main_middle_text'] = "الرئيسية المتوسطة نص";
+$lang['certificate_template_top_heading_title'] = "أعلى العنوان العنوان";
+$lang['certificate_template_top_heading_left'] = "أعلى العنوان اليسار";
+$lang['certificate_template_top_heading_middle'] = "أعلى العنوان الوسط";
+$lang['certificate_template_top_heading_right'] = "أعلى العنوان الحق";
+$lang['certificate_template_template'] = "قالب";
+$lang['certificate_template_footer_left_text'] = "تذييل يسار نص";
+$lang['certificate_template_footer_middle_text'] = "تذييل المتوسطة نص";
+$lang['certificate_template_footer_right_text'] = "تذييل يمين نص";
+$lang['certificate_template_background_image'] = "الخلفية صورة";
+$lang['certificate_template_tags'] = "Tags";
+$lang['certificate_template_draganddrop'] = "Droppable";
+$lang['certificate_template_select_theme'] 	= "حدد موضوع";
+$lang['certificate_template_default'] 		= "الافتراضي";
+$lang['certificate_template_theme1'] 		= "الموضوع 1";
+$lang['certificate_template_theme2'] 		= "موضوع 2";
+$lang['certificate_template_file_browse'] = "الملف تصفح";
+$lang['certificate_template_clear'] = "واضح";
+$lang['add_certificate_template'] = "إضافة شهادة قالب";
+$lang['update_certificate_template'] = "تحديث شهادة قالب";
+$lang['action'] = "العمل";
+$lang['view'] = "عرض";
+$lang['edit'] = "تحرير";
+$lang['delete'] = "حذف";
+$lang['print'] = "طباعة";
+$lang['pdf_preview'] = "Pdf المعاينة";
+$lang["mail"] = "إرسال Pdf إلى البريد";

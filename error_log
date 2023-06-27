@@ -1,0 +1,2 @@
+[19-Mar-2020 17:05:14 Africa/Nairobi] PHP Fatal error:  require_once(): Failed opening required '/home/uberuhrq/jaffery.hookit.co.tz/main/core/compat/mbstring.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/uberuhrq/jaffery.hookit.co.tz/main/core/CodeIgniter.php on line 287
+[19-Mar-2020 17:09:41 Africa/Nairobi] PHP Fatal error:  require_once(): Failed opening required '/home/uberuhrq/jaffery.hookit.co.tz/main/core/compat/mbstring.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/uberuhrq/jaffery.hookit.co.tz/main/core/CodeIgniter.php on line 287

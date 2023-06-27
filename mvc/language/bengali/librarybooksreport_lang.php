@@ -1,0 +1,33 @@
+<?php
+
+$lang['slno'] = "#";
+$lang['panel_title'] = "লাইব্রেরী বই প্রতিবেদন";
+$lang['librarybooksreport_report_for'] = "প্রতিবেদন জন্য";
+$lang['librarybooksreport_please_select'] = "দয়া করে নির্বাচন করুন";
+$lang['librarybooksreport_bookname'] = "বই নাম";
+$lang['librarybooksreport_author'] = "লেখক";
+$lang['librarybooksreport_subjectcode'] = "বিষয় কোড";
+$lang['librarybooksreport_rackNo'] = "তাক কোন";
+$lang['librarybooksreport_status'] = "অবস্থা";
+$lang['librarybooksreport_available'] = "পাওয়া যায়";
+$lang['librarybooksreport_unavailable'] = "অনুপলব্ধ";
+$lang['librarybooksreport_librarybooks'] = "লাইব্রেরী বই";
+$lang['librarybooksreport_submit'] = "পেতে প্রতিবেদন";
+$lang['librarybooksreport_print'] = "প্রিন্ট";
+$lang['librarybooksreport_pdf_preview'] = "Pdf সম্পূর্ণ বিবরণের পূর্বরূপ দেখুন";
+$lang['librarybooksreport_xlsx'] = "Xlsx";
+$lang['librarybooksreport_mail'] = "পাঠান পিডিএফ     মেইল";
+$lang['librarybooksreport_hotline'] = "হটলাইন";
+$lang['librarybooksreport_to'] = "থেকে";
+$lang['librarybooksreport_subject'] = "বিষয়";
+$lang['librarybooksreport_message'] = "বার্তা";
+$lang['librarybooksreport_close'] = "বন্ধ";
+$lang['librarybooksreport_send'] = "পাঠান";
+$lang['librarybooksreport_mail_to'] = "ক্ষেত্র  প্রয়োজন";
+$lang['librarybooksreport_mail_valid'] = "ক্ষেত্র আবশ্যক ধারণ A বৈধ ইমেইল ঠিকানা";
+$lang['librarybooksreport_mail_subject'] = "Subject ক্ষেত্র  প্রয়োজন";
+$lang['mail_success'] = "ইমেল পাঠান সফলভাবে";
+$lang['mail_error'] = "ওহো, ইমেইল না পাঠান";
+$lang['librarybooksreport_data_not_found'] = "তথ্য না পাওয়া";
+$lang['librarybooksreport_permission'] = "অনুমতি না অনুমতি";
+$lang['librarybooksreport_permissionmethod'] = "পদ্ধতি না অনুমতি";

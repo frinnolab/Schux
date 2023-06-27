@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "ตรวจสอบ เข้าร่วม";
+$lang['add_title'] = "เพิ่ม สอบ เข้าร่วม";
+$lang['slno'] = "#";
+$lang['eattendance_photo'] = "ภาพถ่าย";
+$lang['eattendance_name'] = "ชื่อ";
+$lang['eattendance_email'] = "อีเมล";
+$lang['eattendance_roll'] = "ม้วน";
+$lang['eattendance_phone'] = "โทรศัพท์";
+$lang['eattendance_attendance'] = "ลองฝึกขานชื่อกันค";
+$lang['eattendance_section'] = "ส่วน";
+$lang['eattendance_exam'] = "ตรวจสอบ";
+$lang['eattendance_classes'] = "ชั้นเรียน";
+$lang['eattendance_subject'] = "เรื่อง";
+$lang['eattendance_status'] = "สถานะ";
+$lang['eattendance_student'] = "นักเรียน";
+$lang['eattendance_all_students'] = "ทุ นักเรียน";
+$lang['eattendance_present'] = "ของขวัญ";
+$lang['eattendance_absent'] = "ดิเพลิเกนบรีฟและไม่เอามาคื";
+$lang['eattendance_details'] = "ตรวจสอบ เข้าร่วม อกรายละเอียด";
+$lang['eattendance_select_exam'] = "เลือก สอบ";
+$lang['eattendance_select_classes'] = "เลือก เรียน";
+$lang['eattendance_select_subject'] = "เลือก เรื่อง";
+$lang['eattendance_select_section'] = "เลือก ส่วน";
+$lang['eattendance_select_student'] = "เลือก นักเรียน";
+$lang['action'] = "การกระทำ";
+$lang['add_attendance'] = "ลองฝึกขานชื่อกันค";
+$lang['add_all_attendance'] = "เพิ่ม ทุก เข้าร่วม";
+$lang['view_attendance'] = "มุมมอง เข้าร่วม";

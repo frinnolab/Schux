@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "证书 模板";
+$lang['add_title'] = "添加 A 证书 模板";
+$lang['slno'] = "#";
+$lang['certificate_template_name'] = "名称";
+$lang['certificate_template_theme'] = "主题";
+$lang['certificate_template_main_middle_text'] = "主 中 文本";
+$lang['certificate_template_top_heading_title'] = "Top 标题 标题";
+$lang['certificate_template_top_heading_left'] = "Top 往左";
+$lang['certificate_template_top_heading_middle'] = "Top 标题 中";
+$lang['certificate_template_top_heading_right'] = "Top 标题 权利";
+$lang['certificate_template_template'] = "模板";
+$lang['certificate_template_footer_left_text'] = "脚左 文本";
+$lang['certificate_template_footer_middle_text'] = "脚 中 文本";
+$lang['certificate_template_footer_right_text'] = "脚  文本";
+$lang['certificate_template_background_image'] = "背景 图像";
+$lang['certificate_template_tags'] = "标签";
+$lang['certificate_template_draganddrop'] = "投掷的";
+$lang['certificate_template_select_theme'] 	= "选择 主题";
+$lang['certificate_template_default'] 		= "默认的";
+$lang['certificate_template_theme1'] 		= "主题1";
+$lang['certificate_template_theme2'] 		= "主题2";
+$lang['certificate_template_file_browse'] = "文件 浏览";
+$lang['certificate_template_clear'] = "清楚的";
+$lang['add_certificate_template'] = "添加 证书 模板";
+$lang['update_certificate_template'] = "更新 证书 模板";
+$lang['action'] = "动作";
+$lang['view'] = "看";
+$lang['edit'] = "编辑";
+$lang['delete'] = "删除";
+$lang['print'] = "印";
+$lang['pdf_preview'] = "Pdf 预览";
+$lang["mail"] = "送 Pdf To 邮件";

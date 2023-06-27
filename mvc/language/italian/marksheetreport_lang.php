@@ -1,0 +1,30 @@
+<?php
+
+$lang['panel_title'] = "Mark Foglio Report";
+$lang['marksheetreport_please_select'] = "Si Prega Di Select";
+$lang['marksheetreport_class'] = "Classe";
+$lang['marksheetreport_section'] = "Sezione";
+$lang['marksheetreport_exam'] = "Esame";
+$lang['marksheetreport_report_for'] = "Report Per";
+$lang['marksheetreport_marksheet'] = "Mark Foglio";
+$lang['marksheetreport_all_section'] = "Tutti I Sezione";
+$lang['marksheetreport_submit'] = "Ottenere Report";
+$lang['marksheetreport_print'] = "Stampa";
+$lang['marksheetreport_pdf_preview'] = "Pdf Anteprima";
+$lang['marksheetreport_xml'] = "Xml";
+$lang['marksheetreport_mail'] = "Inviare Pdf A Mail";
+$lang['marksheetreport_hotline'] = "Hotline";
+$lang['marksheetreport_to'] = "Per";
+$lang['marksheetreport_subject'] = "Soggetto";
+$lang['marksheetreport_message'] = "Messaggio";
+$lang['marksheetreport_close'] = "Chiudere";
+$lang['marksheetreport_send'] = "Inviare";
+$lang['marksheetreport_mail_to'] = "Il Al Campo Di Richiesto";
+$lang['marksheetreport_mail_valid'] = "Il Al Campo Deve Contiene Un Valido Email Indirizzo";
+$lang['marksheetreport_mail_subject'] = "Il Soggetto Campo Di Richiesto";
+$lang['mail_success'] = "E-mail Inviare Con Successo";
+$lang['mail_error'] = "Oops, E-mail Non Invio";
+$lang['marksheetreport_data_not_found'] = "Don't Sono I Dati";
+$lang['marksheetreport_examid_not_found'] = "Esame Id Non Found";
+$lang['marksheetreport_permission'] = "Autorizzazione Non Ha Permesso";
+$lang['marksheetreport_permissionmethod'] = "Metodo Non Ha Permesso";

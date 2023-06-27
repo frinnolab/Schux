@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "সার্টিফিকেট প্রতিবেদন";
+$lang['certificatereport_select_all_section'] = "সব অধ্যায়";
+$lang['certificatereport_all_section'] = "সব অধ্যায়";
+$lang['certificatereport_report'] = "সার্টিফিকেট";
+$lang['certificatereport_report_for'] = "প্রতিবেদন জন্য";
+$lang['certificatereport_class'] = "শ্রেণী";
+$lang['certificatereport_photo'] = "ফটো";
+$lang['certificatereport_name'] = "নাম";
+$lang['certificatereport_roll'] = "রোল";
+$lang['certificatereport_section'] = "অধ্যায়";
+$lang['certificatereport_action'] = "কর্ম";
+$lang['certificatereport_student_not_found'] = "আপনার নিজস্ব't করেছেন কোন ছাত্র";
+$lang['certificatereport_select_class'] = "নির্বাচন বর্গ";
+$lang['certificatereport_select_section'] = "নির্বাচন অধ্যায়";
+$lang['certificatereport_certificate'] = "সার্টিফিকেট";
+$lang['certificatereport_select_academic_year'] = "নির্বাচন একাডেমিক বছর";
+$lang['certificatereport_select_template'] = "নির্বাচন টেমপ্লেট";
+$lang['certificatereport_academic_year'] = "একাডেমিক বছর";
+$lang['certificatereport_template'] = "টেমপ্লেট";
+$lang['certificatereport_generate_certificate'] = "উৎপন্ন সার্টিফিকেট";
+$lang['certificatereport_submit'] = "পেতে প্রতিবেদন";
+$lang['certificatereport_academicyear'] = "একাডেমিক বছর";
+$lang['certificatereport_classname'] = "ক্লাস নাম";
+$lang['certificatereport_sectionname'] = "অধ্যায় নাম";
+$lang['certificatereport_templatename'] = "টেমপ্লেট    নাম";
+$lang['certificatereport_please_select'] = "দয়া করে নির্বাচন করুন";
+$lang['certificatereport_print'] = "প্রিন্ট";
+$lang['certificatereport_pdf_preview'] = "Pdf সম্পূর্ণ বিবরণের পূর্বরূপ দেখুন";
+$lang['certificatereport_xml'] = "এক্সএমএল";
+$lang['certificatereport_mail'] = "পাঠান পিডিএফ     মেইল";
+$lang['report_certificate'] = "সার্টিফিকেট";

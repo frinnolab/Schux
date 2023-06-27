@@ -1,0 +1,33 @@
+<?php
+
+$lang['panel_title'] = "Talimat";
+$lang['add_title'] = "Ekleme Talimat";
+$lang['slno'] = "#";
+$lang['instruction_title'] = "Başlık";
+$lang['instruction_content'] = "İçerik";
+$lang['instruction_add'] = "Ekle";
+$lang['action'] = "Eylem";
+$lang['view'] = "Görünüm";
+$lang['edit'] = "Düzenle";
+$lang['delete'] = "Sil";
+$lang['print'] = "Baskı";
+$lang['pdf_preview'] = "Pdf Önizleme";
+$lang["mail"] = "Posta  Pdf Gönder";
+$lang['add_class'] = "Talimat Ekle";
+$lang['update_class'] = "Güncelleme Talimat";
+$lang['to'] = "İçin";
+$lang['subject'] = "Konu";
+$lang['message'] = "Mesaj";
+$lang['send'] = "Gönder";
+$lang['mail_to'] = "Alan   Gereklidir";
+$lang['mail_valid'] = "Alan  Içeren  Geçerli E-posta Adresi Gerekir";
+$lang['mail_subject'] = "Konu Alan  Gereklidir";
+$lang['mail_success'] = "E-posta Başarılı Gönder";
+$lang['mail_error'] = "Oops, E-posta Gönder Değil";
+$lang['instruction_to'] = "İçin";
+$lang['instruction_subject'] = "Konu";
+$lang['instruction_message'] = "Mesaj";
+$lang['instruction_instructionID'] = "Talimat Id";
+$lang['instruction_data_not_found'] = "Yok't Herhangi Veri";
+$lang['instruction_permissionmethod'] = "Yöntem  İzin Verilmiyor";
+$lang['instruction_permission'] = "İzin  Değil";

@@ -1,0 +1,34 @@
+<?php
+
+$lang['panel_title'] = "सारणीकरण शीट रिपोर्ट";
+$lang['tabulationsheetreport_please_select'] = "कृपया का चयन करें";
+$lang['tabulationsheetreport_report_for'] = "रिपोर्ट के लिए";
+$lang['tabulationsheetreport_class'] = "वर्ग";
+$lang['tabulationsheetreport_section'] = "अनुभाग";
+$lang['tabulationsheetreport_student'] = "छात्र";
+$lang['tabulationsheetreport_exam'] = "परीक्षा";
+$lang['tabulationsheetreport_tabulationsheet'] = "सारणीकरण शीट";
+$lang['tabulationsheetreport_all_class'] = "सभी वर्ग";
+$lang['tabulationsheetreport_all_section'] = "सभी धारा";
+$lang['tabulationsheetreport_name'] = "नाम";
+$lang['tabulationsheetreport_roll'] = "रोल";
+$lang['tabulationsheetreport_gpa'] = "जीपीए";
+$lang['tabulationsheetreport_total'] = "कुल";
+$lang['tabulationsheetreport_print'] = "प्रिंट";
+$lang['tabulationsheetreport_submit'] = "प्राप्त रिपोर्ट";
+$lang['tabulationsheetreport_pdf_preview'] = "पीडीएफ पूर्वावलोकन";
+$lang['tabulationsheetreport_send_pdf_to_mail'] = "भेजें पीडीएफ  करने के लिए मेल";
+$lang['tabulationsheetreport_hotline'] = "हॉटलाइन";
+$lang['tabulationsheetreport_to'] = "करने के लिए";
+$lang['tabulationsheetreport_subject'] = "विषय";
+$lang['tabulationsheetreport_message'] = "संदेश";
+$lang['tabulationsheetreport_close'] = "करीब";
+$lang['tabulationsheetreport_send'] = "भेजें";
+$lang['tabulationsheetreport_mail_to'] = "के लिए  क्षेत्र है की आवश्यकता";
+$lang['tabulationsheetreport_mail_valid'] = "के लिए  क्षेत्र चाहिए शामिल एक मान्य ईमेल पते";
+$lang['tabulationsheetreport_mail_subject'] = "के विषय क्षेत्र है की आवश्यकता";
+$lang['mail_success'] = "ईमेल भेज सफलतापूर्वक";
+$lang['mail_error'] = "उफ़, ईमेल नहीं भेजें";
+$lang['tabulationsheetreport_data_not_found'] = "डॉन't है भी डेटा";
+$lang['tabulationsheetreport_permission'] = "अनुमति  नहीं की अनुमति दी";
+$lang['tabulationsheetreport_permissionmethod'] = "विधि न की अनुमति दी";
